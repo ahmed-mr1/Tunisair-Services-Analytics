@@ -12862,6 +12862,7137 @@
       "live": null
     },
     {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T01:55:00+00:00",
+        "estimated": "2025-12-27T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T08:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "400",
+        "iata": "TU400",
+        "icao": "TAR400",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T02:40:00+00:00",
+        "estimated": "2025-12-27T02:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T05:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "706",
+        "iata": "TU706",
+        "icao": "TAR706",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T02:00:00+00:00",
+        "estimated": "2025-12-27T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T03:42:00+00:00",
+        "delay": 24,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "2757",
+        "iata": "TU2757",
+        "icao": "TAR2757",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "N",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T02:40:00+00:00",
+        "estimated": "2025-12-27T02:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T05:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "714",
+        "iata": "TU714",
+        "icao": "TAR714",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bamako",
+        "timezone": "Africa/Bamako",
+        "iata": "BKO",
+        "icao": "GABS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T23:20:00+00:00",
+        "estimated": "2025-12-26T23:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T00:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "400",
+        "iata": "TU400",
+        "icao": "TAR400",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T23:30:00+00:00",
+        "estimated": "2025-12-26T23:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "T1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T01:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "2756",
+        "iata": "TU2756",
+        "icao": "TAR2756",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Mérignac",
+        "timezone": "Europe/Paris",
+        "iata": "BOD",
+        "icao": "LFBD",
+        "terminal": "B",
+        "gate": "A",
+        "delay": null,
+        "scheduled": "2025-12-26T23:55:00+00:00",
+        "estimated": "2025-12-26T23:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T02:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "629",
+        "iata": "TU629",
+        "icao": "TAR629",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "El Prat De Llobregat",
+        "timezone": "Europe/Madrid",
+        "iata": "BCN",
+        "icao": "LEBL",
+        "terminal": "1",
+        "gate": "D",
+        "delay": null,
+        "scheduled": "2025-12-26T23:20:00+00:00",
+        "estimated": "2025-12-26T23:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T00:55:00+00:00",
+        "delay": 17,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "515",
+        "iata": "TU515",
+        "icao": "TAR515",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T23:05:00+00:00",
+        "estimated": "2025-12-26T23:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T01:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "705",
+        "iata": "TU705",
+        "icao": "TAR705",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T21:00:00+00:00",
+        "estimated": "2025-12-26T21:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Bamako",
+        "timezone": "Africa/Bamako",
+        "iata": "BKO",
+        "icao": "GABS",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T22:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "399",
+        "iata": "TU399",
+        "icao": "TAR399",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T20:15:00+00:00",
+        "estimated": "2025-12-26T20:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T22:30:00+00:00",
+        "delay": 100,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "607",
+        "iata": "TU607",
+        "icao": "TAR607",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T20:45:00+00:00",
+        "estimated": "2025-12-26T20:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Mérignac",
+        "timezone": "Europe/Paris",
+        "iata": "BOD",
+        "icao": "LFBD",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T22:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "628",
+        "iata": "TU628",
+        "icao": "TAR628",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T20:35:00+00:00",
+        "estimated": "2025-12-26T20:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "El Prat De Llobregat",
+        "timezone": "Europe/Madrid",
+        "iata": "BCN",
+        "icao": "LEBL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "15",
+        "scheduled": "2025-12-26T22:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "514",
+        "iata": "TU514",
+        "icao": "TAR514",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T20:20:00+00:00",
+        "estimated": "2025-12-26T20:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T22:45:00+00:00",
+        "delay": 180,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "725",
+        "iata": "TU725",
+        "icao": "TAR725",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Houari Boumediene",
+        "timezone": "Africa/Algiers",
+        "iata": "ALG",
+        "icao": "DAAG",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T20:35:00+00:00",
+        "estimated": "2025-12-26T20:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T21:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "375",
+        "iata": "TU375",
+        "icao": "TAR375",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 63,
+        "scheduled": "2025-12-26T19:25:00+00:00",
+        "estimated": "2025-12-26T19:25:00+00:00",
+        "actual": "2025-12-26T20:46:00+00:00",
+        "estimated_runway": "2025-12-26T20:46:00+00:00",
+        "actual_runway": "2025-12-26T20:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "N",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T01:40:00+00:00",
+        "delay": 62,
+        "estimated": "2025-12-27T02:42:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "713",
+        "iata": "TU713",
+        "icao": "TAR713",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 87,
+        "scheduled": "2025-12-26T18:15:00+00:00",
+        "estimated": "2025-12-26T18:15:00+00:00",
+        "actual": "2025-12-26T20:05:00+00:00",
+        "estimated_runway": "2025-12-26T20:05:00+00:00",
+        "actual_runway": "2025-12-26T20:05:00+00:00"
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T20:40:00+00:00",
+        "delay": 87,
+        "estimated": "2025-12-26T22:07:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "724",
+        "iata": "TU724",
+        "icao": "TAR724",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 99,
+        "scheduled": "2025-12-26T18:15:00+00:00",
+        "estimated": "2025-12-26T18:15:00+00:00",
+        "actual": "2025-12-26T20:11:00+00:00",
+        "estimated_runway": "2025-12-26T20:11:00+00:00",
+        "actual_runway": "2025-12-26T20:11:00+00:00"
+      },
+      "arrival": {
+        "airport": "Houari Boumediene",
+        "timezone": "Africa/Algiers",
+        "iata": "ALG",
+        "icao": "DAAG",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T19:35:00+00:00",
+        "delay": 98,
+        "estimated": "2025-12-26T21:13:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "374",
+        "iata": "TU374",
+        "icao": "TAR374",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": "986",
+        "delay": null,
+        "scheduled": "2025-12-26T19:00:00+00:00",
+        "estimated": "2025-12-26T19:00:00+00:00",
+        "actual": "2025-12-26T19:03:00+00:00",
+        "estimated_runway": "2025-12-26T19:03:00+00:00",
+        "actual_runway": "2025-12-26T19:03:00+00:00"
+      },
+      "arrival": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T21:50:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T21:33:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "649",
+        "iata": "TU649",
+        "icao": "TAR649",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Charles De Gaulle",
+        "timezone": "Europe/Paris",
+        "iata": "CDG",
+        "icao": "LFPG",
+        "terminal": "3",
+        "gate": null,
+        "delay": 5,
+        "scheduled": "2025-12-26T18:30:00+00:00",
+        "estimated": "2025-12-26T18:30:00+00:00",
+        "actual": "2025-12-26T18:47:00+00:00",
+        "estimated_runway": "2025-12-26T18:47:00+00:00",
+        "actual_runway": "2025-12-26T18:47:00+00:00"
+      },
+      "arrival": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T21:10:00+00:00",
+        "delay": 5,
+        "estimated": "2025-12-26T21:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "441",
+        "iata": "TU441",
+        "icao": "TAR441",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TS-IMW",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "02A196"
+      },
+      "live": {
+        "updated": "2025-12-26T20:23:25+00:00",
+        "latitude": 35.7602,
+        "longitude": 10.7543,
+        "altitude": 0,
+        "direction": 343,
+        "speed_horizontal": 1.852,
+        "speed_vertical": 0,
+        "is_ground": true
+      }
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "4",
+        "gate": "D",
+        "delay": null,
+        "scheduled": "2025-12-26T16:50:00+00:00",
+        "estimated": "2025-12-26T16:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T20:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "791",
+        "iata": "TU791",
+        "icao": "TAR791",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A198"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Geneve-cointrin",
+        "timezone": "Europe/Zurich",
+        "iata": "GVA",
+        "icao": "LSGG",
+        "terminal": "1",
+        "gate": "29-3",
+        "delay": null,
+        "scheduled": "2025-12-26T17:45:00+00:00",
+        "estimated": "2025-12-26T17:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T19:40:00+00:00",
+        "delay": 205,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "701",
+        "iata": "TU701",
+        "icao": "TAR701",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 104,
+        "scheduled": "2025-12-26T17:00:00+00:00",
+        "estimated": "2025-12-26T17:00:00+00:00",
+        "actual": "2025-12-26T19:07:00+00:00",
+        "estimated_runway": "2025-12-26T19:07:00+00:00",
+        "actual_runway": "2025-12-26T19:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T19:15:00+00:00",
+        "delay": 103,
+        "estimated": "2025-12-26T20:58:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "606",
+        "iata": "TU606",
+        "icao": "TAR606",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T17:00:00+00:00",
+        "estimated": "2025-12-26T17:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T19:25:00+00:00",
+        "delay": 41,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "723",
+        "iata": "TU723",
+        "icao": "TAR723",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": null,
+        "gate": null,
+        "delay": 65,
+        "scheduled": "2025-12-26T11:00:00+00:00",
+        "estimated": "2025-12-26T11:00:00+00:00",
+        "actual": "2025-12-26T12:04:00+00:00",
+        "estimated_runway": "2025-12-26T12:04:00+00:00",
+        "actual_runway": "2025-12-26T12:04:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T13:10:00+00:00",
+        "delay": 64,
+        "estimated": "2025-12-26T14:14:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "9017",
+        "iata": "TU9017",
+        "icao": "TAR9017",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A198"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 76,
+        "scheduled": "2025-12-26T15:40:00+00:00",
+        "estimated": "2025-12-26T15:40:00+00:00",
+        "actual": "2025-12-26T16:54:00+00:00",
+        "estimated_runway": "2025-12-26T16:54:00+00:00",
+        "actual_runway": "2025-12-26T16:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T20:00:00+00:00",
+        "delay": 75,
+        "estimated": "2025-12-26T21:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "399",
+        "iata": "TU399",
+        "icao": "TAR399",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TS-IMB",
+        "iata": "A20N",
+        "icao": "A20N",
+        "icao24": "02A181"
+      },
+      "live": {
+        "updated": "2025-12-26T20:20:50+00:00",
+        "latitude": 10.0516,
+        "longitude": -0.7479,
+        "altitude": 10363.2,
+        "direction": 226,
+        "speed_horizontal": 822.288,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Düsseldorf International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "DUS",
+        "icao": "EDDL",
+        "terminal": null,
+        "gate": "240-",
+        "delay": 28,
+        "scheduled": "2025-12-26T15:45:00+00:00",
+        "estimated": "2025-12-26T15:45:00+00:00",
+        "actual": "2025-12-26T16:31:00+00:00",
+        "estimated_runway": "2025-12-26T16:31:00+00:00",
+        "actual_runway": "2025-12-26T16:31:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T18:25:00+00:00",
+        "delay": 46,
+        "estimated": "2025-12-26T18:53:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "527",
+        "iata": "TU527",
+        "icao": "TAR527",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T15:00:00+00:00",
+        "estimated": "2025-12-26T15:00:00+00:00",
+        "actual": "2025-12-26T15:05:00+00:00",
+        "estimated_runway": "2025-12-26T15:05:00+00:00",
+        "actual_runway": "2025-12-26T15:05:00+00:00"
+      },
+      "arrival": {
+        "airport": "Charles De Gaulle",
+        "timezone": "Europe/Paris",
+        "iata": "CDG",
+        "icao": "LFPG",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T17:30:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T17:20:00+00:00",
+        "actual": "2025-12-26T17:23:00+00:00",
+        "estimated_runway": "2025-12-26T17:23:00+00:00",
+        "actual_runway": "2025-12-26T17:23:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "440",
+        "iata": "TU440",
+        "icao": "TAR440",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Franz Josef Strauss",
+        "timezone": "Europe/Berlin",
+        "iata": "MUC",
+        "icao": "EDDM",
+        "terminal": "1",
+        "gate": "C04",
+        "delay": 15,
+        "scheduled": "2025-12-26T14:10:00+00:00",
+        "estimated": "2025-12-26T14:10:00+00:00",
+        "actual": "2025-12-26T14:44:00+00:00",
+        "estimated_runway": "2025-12-26T14:44:00+00:00",
+        "actual_runway": "2025-12-26T14:44:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T16:15:00+00:00",
+        "delay": 35,
+        "estimated": "2025-12-26T16:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "543",
+        "iata": "TU543",
+        "icao": "TAR543",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T15:00:00+00:00",
+        "estimated": "2025-12-26T15:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Geneve-cointrin",
+        "timezone": "Europe/Zurich",
+        "iata": "GVA",
+        "icao": "LSGG",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "7",
+        "scheduled": "2025-12-26T16:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "700",
+        "iata": "TU700",
+        "icao": "TAR700",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T14:55:00+00:00",
+        "estimated": "2025-12-26T14:55:00+00:00",
+        "actual": "2025-12-26T15:06:00+00:00",
+        "estimated_runway": "2025-12-26T15:06:00+00:00",
+        "actual_runway": "2025-12-26T15:06:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": "6",
+        "scheduled": "2025-12-26T23:30:00+00:00",
+        "delay": 12,
+        "estimated": "2025-12-26T23:07:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "148",
+        "iata": "TU148",
+        "icao": "TAR148",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "748",
+          "flight_iata": "ek748",
+          "flight_icao": "uae748"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "89667B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T14:30:00+00:00",
+        "estimated": "2025-12-26T14:30:00+00:00",
+        "actual": "2025-12-26T14:33:00+00:00",
+        "estimated_runway": "2025-12-26T14:33:00+00:00",
+        "actual_runway": "2025-12-26T14:33:00+00:00"
+      },
+      "arrival": {
+        "airport": "Queen Alia International",
+        "timezone": "Asia/Amman",
+        "iata": "AMM",
+        "icao": "OJAI",
+        "terminal": null,
+        "gate": "104",
+        "baggage": null,
+        "scheduled": "2025-12-26T20:10:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T19:40:00+00:00",
+        "actual": "2025-12-26T19:40:00+00:00",
+        "estimated_runway": "2025-12-26T19:40:00+00:00",
+        "actual_runway": "2025-12-26T19:40:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "152",
+        "iata": "TU152",
+        "icao": "TAR152",
+        "codeshared": {
+          "airline_name": "royal jordanian",
+          "airline_iata": "rj",
+          "airline_icao": "rja",
+          "flight_number": "552",
+          "flight_iata": "rj552",
+          "flight_icao": "rja552"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "74482B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T15:00:00+00:00",
+        "estimated": "2025-12-26T15:00:00+00:00",
+        "actual": "2025-12-26T15:11:00+00:00",
+        "estimated_runway": "2025-12-26T15:11:00+00:00",
+        "actual_runway": "2025-12-26T15:11:00+00:00"
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T18:00:00+00:00",
+        "delay": 12,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "648",
+        "iata": "TU648",
+        "icao": "TAR648",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Entzheim",
+        "timezone": "Europe/Paris",
+        "iata": "SXB",
+        "icao": "LFST",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T15:05:00+00:00",
+        "estimated": "2025-12-26T15:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T17:15:00+00:00",
+        "delay": 42,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "247",
+        "iata": "TU247",
+        "icao": "TAR247",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T13:45:00+00:00",
+        "estimated": "2025-12-26T13:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T15:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "790",
+        "iata": "TU790",
+        "icao": "TAR790",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A198"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 25,
+        "scheduled": "2025-12-26T13:35:00+00:00",
+        "estimated": "2025-12-26T13:35:00+00:00",
+        "actual": "2025-12-26T14:23:00+00:00",
+        "estimated_runway": "2025-12-26T14:23:00+00:00",
+        "actual_runway": "2025-12-26T14:23:00+00:00"
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T16:00:00+00:00",
+        "delay": 25,
+        "estimated": "2025-12-26T16:21:00+00:00",
+        "actual": "2025-12-26T16:25:00+00:00",
+        "estimated_runway": "2025-12-26T16:25:00+00:00",
+        "actual_runway": "2025-12-26T16:25:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "722",
+        "iata": "TU722",
+        "icao": "TAR722",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 120,
+        "scheduled": "2025-12-26T12:55:00+00:00",
+        "estimated": "2025-12-26T12:55:00+00:00",
+        "actual": "2025-12-26T15:09:00+00:00",
+        "estimated_runway": "2025-12-26T15:09:00+00:00",
+        "actual_runway": "2025-12-26T15:09:00+00:00"
+      },
+      "arrival": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "4",
+        "scheduled": "2025-12-26T14:30:00+00:00",
+        "delay": 120,
+        "estimated": "2025-12-26T16:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "902",
+        "iata": "TU902",
+        "icao": "TAR902",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": null,
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": "986",
+        "delay": null,
+        "scheduled": "2025-12-26T11:30:00+00:00",
+        "estimated": "2025-12-26T11:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T13:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "745",
+        "iata": "TU745",
+        "icao": "TAR745",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 25,
+        "scheduled": "2025-12-26T12:00:00+00:00",
+        "estimated": "2025-12-26T12:00:00+00:00",
+        "actual": "2025-12-26T12:55:00+00:00",
+        "estimated_runway": "2025-12-26T12:55:00+00:00",
+        "actual_runway": "2025-12-26T12:55:00+00:00"
+      },
+      "arrival": {
+        "airport": "Düsseldorf International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "DUS",
+        "icao": "EDDL",
+        "terminal": null,
+        "gate": "C45",
+        "baggage": "14",
+        "scheduled": "2025-12-26T14:45:00+00:00",
+        "delay": 25,
+        "estimated": "2025-12-26T15:10:00+00:00",
+        "actual": "2025-12-26T15:10:00+00:00",
+        "estimated_runway": "2025-12-26T15:10:00+00:00",
+        "actual_runway": "2025-12-26T15:10:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "526",
+        "iata": "TU526",
+        "icao": "TAR526",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 17,
+        "scheduled": "2025-12-26T12:00:00+00:00",
+        "estimated": "2025-12-26T12:00:00+00:00",
+        "actual": "2025-12-26T12:33:00+00:00",
+        "estimated_runway": "2025-12-26T12:33:00+00:00",
+        "actual_runway": "2025-12-26T12:33:00+00:00"
+      },
+      "arrival": {
+        "airport": "Entzheim",
+        "timezone": "Europe/Paris",
+        "iata": "SXB",
+        "icao": "LFST",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T14:15:00+00:00",
+        "delay": 17,
+        "estimated": "2025-12-26T14:38:00+00:00",
+        "actual": "2025-12-26T14:32:00+00:00",
+        "estimated_runway": "2025-12-26T14:32:00+00:00",
+        "actual_runway": "2025-12-26T14:32:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "246",
+        "iata": "TU246",
+        "icao": "TAR246",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T11:25:00+00:00",
+        "estimated": "2025-12-26T11:25:00+00:00",
+        "actual": "2025-12-26T11:40:00+00:00",
+        "estimated_runway": "2025-12-26T11:40:00+00:00",
+        "actual_runway": "2025-12-26T11:40:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T14:05:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T14:04:00+00:00",
+        "actual": "2025-12-26T14:04:00+00:00",
+        "estimated_runway": "2025-12-26T14:04:00+00:00",
+        "actual_runway": "2025-12-26T14:04:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "955",
+        "iata": "TU955",
+        "icao": "TAR955",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": 38,
+        "scheduled": "2025-12-26T10:35:00+00:00",
+        "estimated": "2025-12-26T10:35:00+00:00",
+        "actual": "2025-12-26T11:35:00+00:00",
+        "estimated_runway": "2025-12-26T11:35:00+00:00",
+        "actual_runway": "2025-12-26T11:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T13:25:00+00:00",
+        "delay": 37,
+        "estimated": "2025-12-26T14:02:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "635",
+        "iata": "TU635",
+        "icao": "TAR635",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Queen Alia International",
+        "timezone": "Asia/Amman",
+        "iata": "AMM",
+        "icao": "OJAI",
+        "terminal": null,
+        "gate": "116",
+        "delay": null,
+        "scheduled": "2025-12-26T11:15:00+00:00",
+        "estimated": "2025-12-26T11:15:00+00:00",
+        "actual": "2025-12-26T11:26:00+00:00",
+        "estimated_runway": "2025-12-26T11:26:00+00:00",
+        "actual_runway": "2025-12-26T11:26:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T13:15:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T13:04:00+00:00",
+        "actual": "2025-12-26T13:06:00+00:00",
+        "estimated_runway": "2025-12-26T13:06:00+00:00",
+        "actual_runway": "2025-12-26T13:06:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "151",
+        "iata": "TU151",
+        "icao": "TAR151",
+        "codeshared": {
+          "airline_name": "royal jordanian",
+          "airline_iata": "rj",
+          "airline_icao": "rja",
+          "flight_number": "551",
+          "flight_iata": "rj551",
+          "flight_icao": "rja551"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "74482B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": null,
+      "departure": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T10:00:00+00:00",
+        "estimated": "2025-12-26T10:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T11:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "757",
+        "iata": "TU757",
+        "icao": "TAR757",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": null,
+        "gate": "S18-",
+        "delay": 14,
+        "scheduled": "2025-12-26T11:50:00+00:00",
+        "estimated": "2025-12-26T11:50:00+00:00",
+        "actual": "2025-12-26T12:22:00+00:00",
+        "estimated_runway": "2025-12-26T12:22:00+00:00",
+        "actual_runway": "2025-12-26T12:22:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T12:35:00+00:00",
+        "delay": 14,
+        "estimated": "2025-12-26T12:49:00+00:00",
+        "actual": "2025-12-26T12:49:00+00:00",
+        "estimated_runway": "2025-12-26T12:49:00+00:00",
+        "actual_runway": "2025-12-26T12:49:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "215",
+        "iata": "TU215",
+        "icao": "TAR215",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T09:25:00+00:00",
+        "estimated": "2025-12-26T09:25:00+00:00",
+        "actual": "2025-12-26T09:40:00+00:00",
+        "estimated_runway": "2025-12-26T09:40:00+00:00",
+        "actual_runway": "2025-12-26T09:40:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T11:00:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T10:58:00+00:00",
+        "actual": "2025-12-26T10:59:00+00:00",
+        "estimated_runway": "2025-12-26T10:59:00+00:00",
+        "actual_runway": "2025-12-26T10:59:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "931",
+        "iata": "TU931",
+        "icao": "TAR931",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T08:35:00+00:00",
+        "estimated": "2025-12-26T08:35:00+00:00",
+        "actual": "2025-12-26T08:53:00+00:00",
+        "estimated_runway": "2025-12-26T08:53:00+00:00",
+        "actual_runway": "2025-12-26T08:53:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T10:10:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T10:03:00+00:00",
+        "actual": "2025-12-26T10:04:00+00:00",
+        "estimated_runway": "2025-12-26T10:04:00+00:00",
+        "actual_runway": "2025-12-26T10:04:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "997",
+        "iata": "TU997",
+        "icao": "TAR997",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T07:50:00+00:00",
+        "estimated": "2025-12-26T07:50:00+00:00",
+        "actual": "2025-12-26T08:01:00+00:00",
+        "estimated_runway": "2025-12-26T08:01:00+00:00",
+        "actual_runway": "2025-12-26T08:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T10:20:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T09:57:00+00:00",
+        "actual": "2025-12-26T09:59:00+00:00",
+        "estimated_runway": "2025-12-26T09:59:00+00:00",
+        "actual_runway": "2025-12-26T09:59:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "718",
+        "iata": "TU718",
+        "icao": "TAR718",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A0AD"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-28",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": "C7",
+        "delay": null,
+        "scheduled": "2025-12-28T08:40:00+00:00",
+        "estimated": "2025-12-28T08:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T12:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "147",
+        "iata": "TU147",
+        "icao": "TAR147",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "747",
+          "flight_iata": "ek747",
+          "flight_icao": "uae747"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-28",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cairo International Airport",
+        "timezone": "Africa/Cairo",
+        "iata": "CAI",
+        "icao": "HECA",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-28T03:15:00+00:00",
+        "estimated": "2025-12-28T03:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T05:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "814",
+        "iata": "TU814",
+        "icao": "TAR814",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-28",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Niamey",
+        "timezone": "Africa/Niamey",
+        "iata": "NIM",
+        "icao": "DRRN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-28T02:15:00+00:00",
+        "estimated": "2025-12-28T02:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T06:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "401",
+        "iata": "TU401",
+        "icao": "TAR401",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-28",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-28T02:00:00+00:00",
+        "estimated": "2025-12-28T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T04:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "706",
+        "iata": "TU706",
+        "icao": "TAR706",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-28",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-28T01:15:00+00:00",
+        "estimated": "2025-12-28T01:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T01:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "681",
+        "iata": "TU681",
+        "icao": "TAR681",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-28",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-28T03:50:00+00:00",
+        "estimated": "2025-12-28T03:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T04:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "217",
+        "iata": "TU217",
+        "icao": "TAR217",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-28",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "N",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-28T01:55:00+00:00",
+        "estimated": "2025-12-28T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T04:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "1714",
+        "iata": "TU1714",
+        "icao": "TAR1714",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": 101,
+        "scheduled": "2025-12-27T20:20:00+00:00",
+        "estimated": "2025-12-27T20:20:00+00:00",
+        "actual": "2025-12-27T22:17:00+00:00",
+        "estimated_runway": "2025-12-27T22:17:00+00:00",
+        "actual_runway": "2025-12-27T22:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T22:45:00+00:00",
+        "delay": 100,
+        "estimated": "2025-12-28T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "725",
+        "iata": "TU725",
+        "icao": "TAR725",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TS-ITC",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "02A262"
+      },
+      "live": {
+        "updated": "2025-12-27T22:44:58+00:00",
+        "latitude": 40.6287,
+        "longitude": 8.517,
+        "altitude": 11292.8,
+        "direction": 151.63,
+        "speed_horizontal": 787.212,
+        "speed_vertical": -1.188,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Conakry",
+        "timezone": "Africa/Conakry",
+        "iata": "CKY",
+        "icao": "GUCY",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T22:55:00+00:00",
+        "estimated": "2025-12-27T22:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T05:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "343",
+        "iata": "TU343",
+        "icao": "TAR343",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T22:30:00+00:00",
+        "estimated": "2025-12-27T22:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Niamey",
+        "timezone": "Africa/Niamey",
+        "iata": "NIM",
+        "icao": "DRRN",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T01:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "401",
+        "iata": "TU401",
+        "icao": "TAR401",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T22:25:00+00:00",
+        "estimated": "2025-12-27T22:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T01:10:00+00:00",
+        "delay": 215,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "705",
+        "iata": "TU705",
+        "icao": "TAR705",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T22:10:00+00:00",
+        "estimated": "2025-12-27T22:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Cairo International Airport",
+        "timezone": "Africa/Cairo",
+        "iata": "CAI",
+        "icao": "HECA",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T02:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "813",
+        "iata": "TU813",
+        "icao": "TAR813",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T22:10:00+00:00",
+        "estimated": "2025-12-27T22:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T02:45:00+00:00",
+        "delay": 140,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "216",
+        "iata": "TU216",
+        "icao": "TAR216",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "delay": 9,
+        "scheduled": "2025-12-27T22:25:00+00:00",
+        "estimated": "2025-12-27T22:25:00+00:00",
+        "actual": "2025-12-27T22:55:00+00:00",
+        "estimated_runway": "2025-12-27T22:55:00+00:00",
+        "actual_runway": "2025-12-27T22:55:00+00:00"
+      },
+      "arrival": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T00:25:00+00:00",
+        "delay": 31,
+        "estimated": "2025-12-28T00:34:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "681",
+        "iata": "TU681",
+        "icao": "TAR681",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Blaise Diagne International Airport\r\n",
+        "timezone": null,
+        "iata": "DSS",
+        "icao": "GOBD",
+        "terminal": null,
+        "gate": null,
+        "delay": 12,
+        "scheduled": "2025-12-27T20:45:00+00:00",
+        "estimated": "2025-12-27T20:45:00+00:00",
+        "actual": "2025-12-27T21:13:00+00:00",
+        "estimated_runway": "2025-12-27T21:13:00+00:00",
+        "actual_runway": "2025-12-27T21:13:00+00:00"
+      },
+      "arrival": {
+        "airport": "Conakry",
+        "timezone": "Africa/Conakry",
+        "iata": "CKY",
+        "icao": "GUCY",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T22:05:00+00:00",
+        "delay": 28,
+        "estimated": "2025-12-27T22:17:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "343",
+        "iata": "TU343",
+        "icao": "TAR343",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TS-IMU",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "02A194"
+      },
+      "live": {
+        "updated": "2025-12-27T22:21:45+00:00",
+        "latitude": 9.616,
+        "longitude": -13.5656,
+        "altitude": 297.18,
+        "direction": 229,
+        "speed_horizontal": 277.8,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 7,
+        "scheduled": "2025-12-27T14:00:00+00:00",
+        "estimated": "2025-12-27T14:00:00+00:00",
+        "actual": "2025-12-27T14:29:00+00:00",
+        "estimated_runway": "2025-12-27T14:29:00+00:00",
+        "actual_runway": "2025-12-27T14:29:00+00:00"
+      },
+      "arrival": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T15:00:00+00:00",
+        "delay": 7,
+        "estimated": "2025-12-27T15:08:00+00:00",
+        "actual": "2025-12-27T15:07:00+00:00",
+        "estimated_runway": "2025-12-27T15:07:00+00:00",
+        "actual_runway": "2025-12-27T15:07:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "8",
+        "iata": "TU8",
+        "icao": "TAR8",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pierre Elliott Trudeau International",
+        "timezone": "America/Montreal",
+        "iata": "YUL",
+        "icao": "CYUL",
+        "terminal": null,
+        "gate": null,
+        "delay": 7,
+        "scheduled": "2025-12-27T14:15:00+00:00",
+        "estimated": "2025-12-27T14:15:00+00:00",
+        "actual": "2025-12-27T15:02:00+00:00",
+        "estimated_runway": "2025-12-27T15:02:00+00:00",
+        "actual_runway": "2025-12-27T15:02:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T04:30:00+00:00",
+        "delay": 7,
+        "estimated": "2025-12-28T04:37:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "203",
+        "iata": "TU203",
+        "icao": "TAR203",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A0AD"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T20:20:00+00:00",
+        "estimated": "2025-12-27T20:20:00+00:00",
+        "actual": "2025-12-27T18:57:00+00:00",
+        "estimated_runway": "2025-12-27T18:57:00+00:00",
+        "actual_runway": "2025-12-27T18:57:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T22:45:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-27T20:58:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "725",
+        "iata": "TU725",
+        "icao": "TAR723",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TS-ITD",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "02A263"
+      },
+      "live": {
+        "updated": "2025-12-27T18:22:22+00:00",
+        "latitude": 46.643,
+        "longitude": 3.2767,
+        "altitude": 9448.8,
+        "direction": 159,
+        "speed_horizontal": 707.464,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T19:50:00+00:00",
+        "estimated": "2025-12-27T19:50:00+00:00",
+        "actual": "2025-12-27T19:59:00+00:00",
+        "estimated_runway": "2025-12-27T19:59:00+00:00",
+        "actual_runway": "2025-12-27T19:59:00+00:00"
+      },
+      "arrival": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "4",
+        "scheduled": "2025-12-27T21:45:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-27T21:34:00+00:00",
+        "actual": "2025-12-27T21:37:00+00:00",
+        "estimated_runway": "2025-12-27T21:37:00+00:00",
+        "actual_runway": "2025-12-27T21:37:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "680",
+        "iata": "TU680",
+        "icao": "TAR680",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": 8,
+        "scheduled": "2025-12-27T19:15:00+00:00",
+        "estimated": "2025-12-27T19:15:00+00:00",
+        "actual": "2025-12-27T19:48:00+00:00",
+        "estimated_runway": "2025-12-27T19:48:00+00:00",
+        "actual_runway": "2025-12-27T19:48:00+00:00"
+      },
+      "arrival": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T22:05:00+00:00",
+        "delay": 33,
+        "estimated": "2025-12-27T22:13:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "635",
+        "iata": "TU635",
+        "icao": "TAR635",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Geneve-cointrin",
+        "timezone": "Europe/Zurich",
+        "iata": "GVA",
+        "icao": "LSGG",
+        "terminal": "1",
+        "gate": "29-3",
+        "delay": 43,
+        "scheduled": "2025-12-27T19:10:00+00:00",
+        "estimated": "2025-12-27T19:10:00+00:00",
+        "actual": "2025-12-27T20:08:00+00:00",
+        "estimated_runway": "2025-12-27T20:08:00+00:00",
+        "actual_runway": "2025-12-27T20:08:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T21:05:00+00:00",
+        "delay": 43,
+        "estimated": "2025-12-27T21:48:00+00:00",
+        "actual": "2025-12-27T21:48:00+00:00",
+        "estimated_runway": "2025-12-27T21:48:00+00:00",
+        "actual_runway": "2025-12-27T21:48:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "701",
+        "iata": "TU701",
+        "icao": "TAR701",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T18:25:00+00:00",
+        "estimated": "2025-12-27T18:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "N",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-28T00:40:00+00:00",
+        "delay": 215,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "1713",
+        "iata": "TU1713",
+        "icao": "TAR1713",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": null,
+      "departure": {
+        "airport": "St-Exupéry",
+        "timezone": "Europe/Paris",
+        "iata": "LYS",
+        "icao": "LFLL",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T18:40:00+00:00",
+        "estimated": "2025-12-27T18:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T20:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "851",
+        "iata": "TU851",
+        "icao": "TAR851",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T18:20:00+00:00",
+        "estimated": "2025-12-27T18:20:00+00:00",
+        "actual": "2025-12-27T18:13:00+00:00",
+        "estimated_runway": "2025-12-27T18:13:00+00:00",
+        "actual_runway": "2025-12-27T18:13:00+00:00"
+      },
+      "arrival": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T19:00:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-27T18:41:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "680",
+        "iata": "TU680",
+        "icao": "TAR680",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 32,
+        "scheduled": "2025-12-27T17:10:00+00:00",
+        "estimated": "2025-12-27T17:10:00+00:00",
+        "actual": "2025-12-27T17:45:00+00:00",
+        "estimated_runway": "2025-12-27T17:45:00+00:00",
+        "actual_runway": "2025-12-27T17:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T21:30:00+00:00",
+        "delay": 35,
+        "estimated": "2025-12-27T22:02:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "401",
+        "iata": "TU401",
+        "icao": "TAR401",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "4",
+        "gate": "D",
+        "delay": 76,
+        "scheduled": "2025-12-27T16:50:00+00:00",
+        "estimated": "2025-12-27T16:50:00+00:00",
+        "actual": "2025-12-27T18:22:00+00:00",
+        "estimated_runway": "2025-12-27T18:22:00+00:00",
+        "actual_runway": "2025-12-27T18:22:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T20:50:00+00:00",
+        "delay": 75,
+        "estimated": "2025-12-27T22:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "791",
+        "iata": "TU791",
+        "icao": "TAR791",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T16:55:00+00:00",
+        "estimated": "2025-12-27T16:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T19:20:00+00:00",
+        "delay": 95,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "724",
+        "iata": "TU724",
+        "icao": "TAR724",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 32,
+        "scheduled": "2025-12-27T16:15:00+00:00",
+        "estimated": "2025-12-27T16:15:00+00:00",
+        "actual": "2025-12-27T17:03:00+00:00",
+        "estimated_runway": "2025-12-27T17:03:00+00:00",
+        "actual_runway": "2025-12-27T17:03:00+00:00"
+      },
+      "arrival": {
+        "airport": "Geneve-cointrin",
+        "timezone": "Europe/Zurich",
+        "iata": "GVA",
+        "icao": "LSGG",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "5",
+        "scheduled": "2025-12-27T18:10:00+00:00",
+        "delay": 49,
+        "estimated": "2025-12-27T18:42:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "700",
+        "iata": "TU700",
+        "icao": "TAR700",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": 105,
+        "scheduled": "2025-12-27T17:00:00+00:00",
+        "estimated": "2025-12-27T17:00:00+00:00",
+        "actual": "2025-12-27T18:57:00+00:00",
+        "estimated_runway": "2025-12-27T18:57:00+00:00",
+        "actual_runway": "2025-12-27T18:57:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T19:25:00+00:00",
+        "delay": 104,
+        "estimated": "2025-12-27T21:09:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "723",
+        "iata": "TU723",
+        "icao": "TAR723",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T15:50:00+00:00",
+        "estimated": "2025-12-27T15:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "St-Exupéry",
+        "timezone": "Europe/Paris",
+        "iata": "LYS",
+        "icao": "LFLL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T17:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "850",
+        "iata": "TU850",
+        "icao": "TAR850",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 21,
+        "scheduled": "2025-12-27T15:30:00+00:00",
+        "estimated": "2025-12-27T15:30:00+00:00",
+        "actual": "2025-12-27T16:11:00+00:00",
+        "estimated_runway": "2025-12-27T16:11:00+00:00",
+        "actual_runway": "2025-12-27T16:11:00+00:00"
+      },
+      "arrival": {
+        "airport": "Blaise Diagne International Airport\r\n",
+        "timezone": null,
+        "iata": "DSS",
+        "icao": "GOBD",
+        "terminal": "T1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T19:55:00+00:00",
+        "delay": 21,
+        "estimated": "2025-12-27T20:14:00+00:00",
+        "actual": "2025-12-27T20:16:00+00:00",
+        "estimated_runway": "2025-12-27T20:16:00+00:00",
+        "actual_runway": "2025-12-27T20:16:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "343",
+        "iata": "TU343",
+        "icao": "TAR343",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": 2,
+        "scheduled": "2025-12-27T15:20:00+00:00",
+        "estimated": "2025-12-27T15:20:00+00:00",
+        "actual": "2025-12-27T15:41:00+00:00",
+        "estimated_runway": "2025-12-27T15:41:00+00:00",
+        "actual_runway": "2025-12-27T15:41:00+00:00"
+      },
+      "arrival": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T17:00:00+00:00",
+        "delay": 2,
+        "estimated": "2025-12-27T17:01:00+00:00",
+        "actual": "2025-12-27T17:02:00+00:00",
+        "estimated_runway": "2025-12-27T17:02:00+00:00",
+        "actual_runway": "2025-12-27T17:02:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "251",
+        "iata": "TU251",
+        "icao": "TAR251",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "delay": 9,
+        "scheduled": "2025-12-27T15:30:00+00:00",
+        "estimated": "2025-12-27T15:30:00+00:00",
+        "actual": "2025-12-27T16:04:00+00:00",
+        "estimated_runway": "2025-12-27T16:04:00+00:00",
+        "actual_runway": "2025-12-27T16:04:00+00:00"
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T18:15:00+00:00",
+        "delay": 9,
+        "estimated": "2025-12-27T18:20:00+00:00",
+        "actual": "2025-12-27T18:24:00+00:00",
+        "estimated_runway": "2025-12-27T18:24:00+00:00",
+        "actual_runway": "2025-12-27T18:24:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "634",
+        "iata": "TU634",
+        "icao": "TAR634",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T14:55:00+00:00",
+        "estimated": "2025-12-27T14:55:00+00:00",
+        "actual": "2025-12-27T15:03:00+00:00",
+        "estimated_runway": "2025-12-27T15:03:00+00:00",
+        "actual_runway": "2025-12-27T15:03:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": "10",
+        "scheduled": "2025-12-27T23:30:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-27T22:48:00+00:00",
+        "actual": "2025-12-27T22:54:00+00:00",
+        "estimated_runway": "2025-12-27T22:54:00+00:00",
+        "actual_runway": "2025-12-27T22:54:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "148",
+        "iata": "TU148",
+        "icao": "TAR148",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "748",
+          "flight_iata": "ek748",
+          "flight_icao": "uae748"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "896626"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": null,
+      "departure": {
+        "airport": "Es Senia",
+        "timezone": "Africa/Algiers",
+        "iata": "ORN",
+        "icao": "DAOO",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T14:45:00+00:00",
+        "estimated": "2025-12-27T14:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T16:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "709",
+        "iata": "TU709",
+        "icao": "TAR709",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Houari Boumediene",
+        "timezone": "Africa/Algiers",
+        "iata": "ALG",
+        "icao": "DAAG",
+        "terminal": "1",
+        "gate": null,
+        "delay": 3,
+        "scheduled": "2025-12-27T14:25:00+00:00",
+        "estimated": "2025-12-27T14:25:00+00:00",
+        "actual": "2025-12-27T14:39:00+00:00",
+        "estimated_runway": "2025-12-27T14:39:00+00:00",
+        "actual_runway": "2025-12-27T14:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T15:35:00+00:00",
+        "delay": 3,
+        "estimated": "2025-12-27T15:35:00+00:00",
+        "actual": "2025-12-27T15:38:00+00:00",
+        "estimated_runway": "2025-12-27T15:38:00+00:00",
+        "actual_runway": "2025-12-27T15:38:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "375",
+        "iata": "TU375",
+        "icao": "TAR375",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 52,
+        "scheduled": "2025-12-27T13:45:00+00:00",
+        "estimated": "2025-12-27T13:45:00+00:00",
+        "actual": "2025-12-27T15:22:00+00:00",
+        "estimated_runway": "2025-12-27T15:22:00+00:00",
+        "actual_runway": "2025-12-27T15:22:00+00:00"
+      },
+      "arrival": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T15:50:00+00:00",
+        "delay": 51,
+        "estimated": "2025-12-27T16:41:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "790",
+        "iata": "TU790",
+        "icao": "TAR790",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 69,
+        "scheduled": "2025-12-27T13:35:00+00:00",
+        "estimated": "2025-12-27T13:35:00+00:00",
+        "actual": "2025-12-27T15:17:00+00:00",
+        "estimated_runway": "2025-12-27T15:17:00+00:00",
+        "actual_runway": "2025-12-27T15:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T16:00:00+00:00",
+        "delay": 69,
+        "estimated": "2025-12-27T17:09:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "722",
+        "iata": "TU722",
+        "icao": "TAR722",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T12:40:00+00:00",
+        "estimated": "2025-12-27T12:40:00+00:00",
+        "actual": "2025-12-27T12:54:00+00:00",
+        "estimated_runway": "2025-12-27T12:54:00+00:00",
+        "actual_runway": "2025-12-27T12:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T14:20:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-27T14:14:00+00:00",
+        "actual": "2025-12-27T14:16:00+00:00",
+        "estimated_runway": "2025-12-27T14:16:00+00:00",
+        "actual_runway": "2025-12-27T14:16:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "250",
+        "iata": "TU250",
+        "icao": "TAR250",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": null,
+        "gate": null,
+        "delay": 2,
+        "scheduled": "2025-12-27T11:25:00+00:00",
+        "estimated": "2025-12-27T11:25:00+00:00",
+        "actual": "2025-12-27T11:47:00+00:00",
+        "estimated_runway": "2025-12-27T11:47:00+00:00",
+        "actual_runway": "2025-12-27T11:47:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T14:05:00+00:00",
+        "delay": 2,
+        "estimated": "2025-12-27T14:07:00+00:00",
+        "actual": "2025-12-27T14:07:00+00:00",
+        "estimated_runway": "2025-12-27T14:07:00+00:00",
+        "actual_runway": "2025-12-27T14:07:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "955",
+        "iata": "TU955",
+        "icao": "TAR955",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": 10,
+        "scheduled": "2025-12-27T11:20:00+00:00",
+        "estimated": "2025-12-27T11:20:00+00:00",
+        "actual": "2025-12-27T11:46:00+00:00",
+        "estimated_runway": "2025-12-27T11:46:00+00:00",
+        "actual_runway": "2025-12-27T11:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T13:45:00+00:00",
+        "delay": 10,
+        "estimated": "2025-12-27T13:53:00+00:00",
+        "actual": "2025-12-27T13:55:00+00:00",
+        "estimated_runway": "2025-12-27T13:55:00+00:00",
+        "actual_runway": "2025-12-27T13:55:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "719",
+        "iata": "TU719",
+        "icao": "TAR719",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Blagnac",
+        "timezone": "Europe/Paris",
+        "iata": "TLS",
+        "icao": "LFBO",
+        "terminal": null,
+        "gate": "C19",
+        "delay": 76,
+        "scheduled": "2025-12-27T11:35:00+00:00",
+        "estimated": "2025-12-27T11:35:00+00:00",
+        "actual": "2025-12-27T13:02:00+00:00",
+        "estimated_runway": "2025-12-27T13:02:00+00:00",
+        "actual_runway": "2025-12-27T13:02:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T13:25:00+00:00",
+        "delay": 76,
+        "estimated": "2025-12-27T14:41:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "283",
+        "iata": "TU283",
+        "icao": "TAR283",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T12:05:00+00:00",
+        "estimated": "2025-12-27T12:05:00+00:00",
+        "actual": "2025-12-27T12:18:00+00:00",
+        "estimated_runway": "2025-12-27T12:18:00+00:00",
+        "actual_runway": "2025-12-27T12:18:00+00:00"
+      },
+      "arrival": {
+        "airport": "Houari Boumediene",
+        "timezone": "Africa/Algiers",
+        "iata": "ALG",
+        "icao": "DAAG",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T13:25:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-27T13:19:00+00:00",
+        "actual": "2025-12-27T13:16:00+00:00",
+        "estimated_runway": "2025-12-27T13:16:00+00:00",
+        "actual_runway": "2025-12-27T13:16:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "374",
+        "iata": "TU374",
+        "icao": "TAR374",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T12:00:00+00:00",
+        "estimated": "2025-12-27T12:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Es Senia",
+        "timezone": "Africa/Algiers",
+        "iata": "ORN",
+        "icao": "DAOO",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T13:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "708",
+        "iata": "TU708",
+        "icao": "TAR708",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": null,
+      "departure": {
+        "airport": "Guglielmo Marconi",
+        "timezone": "Europe/Rome",
+        "iata": "BLQ",
+        "icao": "LIPE",
+        "terminal": null,
+        "gate": "A18",
+        "delay": null,
+        "scheduled": "2025-12-27T11:10:00+00:00",
+        "estimated": "2025-12-27T11:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T12:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "363",
+        "iata": "TU363",
+        "icao": "TAR363",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": "986",
+        "delay": 20,
+        "scheduled": "2025-12-27T11:30:00+00:00",
+        "estimated": "2025-12-27T11:30:00+00:00",
+        "actual": "2025-12-27T12:06:00+00:00",
+        "estimated_runway": "2025-12-27T12:06:00+00:00",
+        "actual_runway": "2025-12-27T12:06:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T13:55:00+00:00",
+        "delay": 20,
+        "estimated": "2025-12-27T14:14:00+00:00",
+        "actual": "2025-12-27T14:15:00+00:00",
+        "estimated_runway": "2025-12-27T14:15:00+00:00",
+        "actual_runway": "2025-12-27T14:15:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "745",
+        "iata": "TU745",
+        "icao": "TAR745",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "1",
+        "gate": null,
+        "delay": 35,
+        "scheduled": "2025-12-27T10:30:00+00:00",
+        "estimated": "2025-12-27T10:30:00+00:00",
+        "actual": "2025-12-27T11:28:00+00:00",
+        "estimated_runway": "2025-12-27T11:28:00+00:00",
+        "actual_runway": "2025-12-27T11:28:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T12:25:00+00:00",
+        "delay": 35,
+        "estimated": "2025-12-27T13:01:00+00:00",
+        "actual": "2025-12-27T13:00:00+00:00",
+        "estimated_runway": "2025-12-27T13:00:00+00:00",
+        "actual_runway": "2025-12-27T13:00:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "757",
+        "iata": "TU757",
+        "icao": "TAR757",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": 1,
+        "scheduled": "2025-12-27T09:15:00+00:00",
+        "estimated": "2025-12-27T09:15:00+00:00",
+        "actual": "2025-12-27T09:40:00+00:00",
+        "estimated_runway": "2025-12-27T09:40:00+00:00",
+        "actual_runway": "2025-12-27T09:40:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T10:50:00+00:00",
+        "delay": 1,
+        "estimated": "2025-12-27T10:51:00+00:00",
+        "actual": "2025-12-27T10:51:00+00:00",
+        "estimated_runway": "2025-12-27T10:51:00+00:00",
+        "actual_runway": "2025-12-27T10:51:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "997",
+        "iata": "TU997",
+        "icao": "TAR997",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Leonardo Da Vinci (Fiumicino)",
+        "timezone": "Europe/Rome",
+        "iata": "FCO",
+        "icao": "LIRF",
+        "terminal": "3",
+        "gate": null,
+        "delay": 73,
+        "scheduled": "2025-12-27T09:50:00+00:00",
+        "estimated": "2025-12-27T09:50:00+00:00",
+        "actual": "2025-12-27T11:23:00+00:00",
+        "estimated_runway": "2025-12-27T11:23:00+00:00",
+        "actual_runway": "2025-12-27T11:23:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T11:05:00+00:00",
+        "delay": 73,
+        "estimated": "2025-12-27T12:18:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "753",
+        "iata": "TU753",
+        "icao": "TAR753",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "delay": 31,
+        "scheduled": "2025-12-27T09:25:00+00:00",
+        "estimated": "2025-12-27T09:25:00+00:00",
+        "actual": "2025-12-27T10:13:00+00:00",
+        "estimated_runway": "2025-12-27T10:13:00+00:00",
+        "actual_runway": "2025-12-27T10:13:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T11:00:00+00:00",
+        "delay": 31,
+        "estimated": "2025-12-27T11:30:00+00:00",
+        "actual": "2025-12-27T11:31:00+00:00",
+        "estimated_runway": "2025-12-27T11:31:00+00:00",
+        "actual_runway": "2025-12-27T11:31:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "931",
+        "iata": "TU931",
+        "icao": "TAR931",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 2,
+        "scheduled": "2025-12-27T09:20:00+00:00",
+        "estimated": "2025-12-27T09:20:00+00:00",
+        "actual": "2025-12-27T10:08:00+00:00",
+        "estimated_runway": "2025-12-27T10:08:00+00:00",
+        "actual_runway": "2025-12-27T10:08:00+00:00"
+      },
+      "arrival": {
+        "airport": "Pierre Elliott Trudeau International",
+        "timezone": "America/Montreal",
+        "iata": "YUL",
+        "icao": "CYUL",
+        "terminal": "2E",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T12:15:00+00:00",
+        "delay": 2,
+        "estimated": "2025-12-27T12:15:00+00:00",
+        "actual": "2025-12-27T12:17:00+00:00",
+        "estimated_runway": "2025-12-27T12:17:00+00:00",
+        "actual_runway": "2025-12-27T12:17:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "202",
+        "iata": "TU202",
+        "icao": "TAR202",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A0AD"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "St-Exupéry",
+        "timezone": "Europe/Paris",
+        "iata": "LYS",
+        "icao": "LFLL",
+        "terminal": "1",
+        "gate": null,
+        "delay": 7,
+        "scheduled": "2025-12-27T09:25:00+00:00",
+        "estimated": "2025-12-27T09:25:00+00:00",
+        "actual": "2025-12-27T09:46:00+00:00",
+        "estimated_runway": "2025-12-27T09:46:00+00:00",
+        "actual_runway": "2025-12-27T09:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T11:30:00+00:00",
+        "delay": 7,
+        "estimated": "2025-12-27T11:33:00+00:00",
+        "actual": "2025-12-27T11:37:00+00:00",
+        "estimated_runway": "2025-12-27T11:37:00+00:00",
+        "actual_runway": "2025-12-27T11:37:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "463",
+        "iata": "TU463",
+        "icao": "TAR463",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 93,
+        "scheduled": "2025-12-27T08:40:00+00:00",
+        "estimated": "2025-12-27T08:40:00+00:00",
+        "actual": "2025-12-27T10:34:00+00:00",
+        "estimated_runway": "2025-12-27T10:34:00+00:00",
+        "actual_runway": "2025-12-27T10:34:00+00:00"
+      },
+      "arrival": {
+        "airport": "Blagnac",
+        "timezone": "Europe/Paris",
+        "iata": "TLS",
+        "icao": "LFBO",
+        "terminal": null,
+        "gate": "4",
+        "baggage": "7",
+        "scheduled": "2025-12-27T10:35:00+00:00",
+        "delay": 92,
+        "estimated": "2025-12-27T12:07:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "282",
+        "iata": "TU282",
+        "icao": "TAR282",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T08:35:00+00:00",
+        "estimated": "2025-12-27T08:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Guglielmo Marconi",
+        "timezone": "Europe/Rome",
+        "iata": "BLQ",
+        "icao": "LIPE",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T10:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "362",
+        "iata": "TU362",
+        "icao": "TAR362",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A198"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T07:55:00+00:00",
+        "estimated": "2025-12-27T07:55:00+00:00",
+        "actual": "2025-12-27T08:14:00+00:00",
+        "estimated_runway": "2025-12-27T08:14:00+00:00",
+        "actual_runway": "2025-12-27T08:14:00+00:00"
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "56",
+        "scheduled": "2025-12-27T10:30:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-27T10:10:00+00:00",
+        "actual": "2025-12-27T10:11:00+00:00",
+        "estimated_runway": "2025-12-27T10:11:00+00:00",
+        "actual_runway": "2025-12-27T10:11:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "744",
+        "iata": "TU744",
+        "icao": "TAR744",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 5,
+        "scheduled": "2025-12-27T07:50:00+00:00",
+        "estimated": "2025-12-27T07:50:00+00:00",
+        "actual": "2025-12-27T08:20:00+00:00",
+        "estimated_runway": "2025-12-27T08:20:00+00:00",
+        "actual_runway": "2025-12-27T08:20:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T10:25:00+00:00",
+        "delay": 5,
+        "estimated": "2025-12-27T10:28:00+00:00",
+        "actual": "2025-12-27T10:30:00+00:00",
+        "estimated_runway": "2025-12-27T10:30:00+00:00",
+        "actual_runway": "2025-12-27T10:30:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "954",
+        "iata": "TU954",
+        "icao": "TAR954",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T07:50:00+00:00",
+        "estimated": "2025-12-27T07:50:00+00:00",
+        "actual": "2025-12-27T08:13:00+00:00",
+        "estimated_runway": "2025-12-27T08:13:00+00:00",
+        "actual_runway": "2025-12-27T08:13:00+00:00"
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T10:20:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-27T10:02:00+00:00",
+        "actual": "2025-12-27T10:07:00+00:00",
+        "estimated_runway": "2025-12-27T10:07:00+00:00",
+        "actual_runway": "2025-12-27T10:07:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "718",
+        "iata": "TU718",
+        "icao": "TAR718",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 36,
+        "scheduled": "2025-12-27T07:45:00+00:00",
+        "estimated": "2025-12-27T07:45:00+00:00",
+        "actual": "2025-12-27T08:49:00+00:00",
+        "estimated_runway": "2025-12-27T08:49:00+00:00",
+        "actual_runway": "2025-12-27T08:49:00+00:00"
+      },
+      "arrival": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T09:30:00+00:00",
+        "delay": 36,
+        "estimated": "2025-12-27T10:06:00+00:00",
+        "actual": "2025-12-27T10:06:00+00:00",
+        "estimated_runway": "2025-12-27T10:06:00+00:00",
+        "actual_runway": "2025-12-27T10:06:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "756",
+        "iata": "TU756",
+        "icao": "TAR756",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 74,
+        "scheduled": "2025-12-27T07:25:00+00:00",
+        "estimated": "2025-12-27T07:25:00+00:00",
+        "actual": "2025-12-27T09:01:00+00:00",
+        "estimated_runway": "2025-12-27T09:01:00+00:00",
+        "actual_runway": "2025-12-27T09:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Leonardo Da Vinci (Fiumicino)",
+        "timezone": "Europe/Rome",
+        "iata": "FCO",
+        "icao": "LIRF",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T08:50:00+00:00",
+        "delay": 73,
+        "estimated": "2025-12-27T10:03:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "752",
+        "iata": "TU752",
+        "icao": "TAR752",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": null,
+      "departure": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-27T06:25:00+00:00",
+        "estimated": "2025-12-27T06:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "St-Exupéry",
+        "timezone": "Europe/Paris",
+        "iata": "LYS",
+        "icao": "LFLL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T08:25:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-27T08:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "462",
+        "iata": "TU462",
+        "icao": "TAR462",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 28,
+        "scheduled": "2025-12-27T06:50:00+00:00",
+        "estimated": "2025-12-27T06:50:00+00:00",
+        "actual": "2025-12-27T07:37:00+00:00",
+        "estimated_runway": "2025-12-27T07:37:00+00:00",
+        "actual_runway": "2025-12-27T07:37:00+00:00"
+      },
+      "arrival": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "1",
+        "scheduled": "2025-12-27T08:25:00+00:00",
+        "delay": 28,
+        "estimated": "2025-12-27T08:53:00+00:00",
+        "actual": "2025-12-27T08:53:00+00:00",
+        "estimated_runway": "2025-12-27T08:53:00+00:00",
+        "actual_runway": "2025-12-27T08:53:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "930",
+        "iata": "TU930",
+        "icao": "TAR930",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 9,
+        "scheduled": "2025-12-27T06:45:00+00:00",
+        "estimated": "2025-12-27T06:45:00+00:00",
+        "actual": "2025-12-27T07:06:00+00:00",
+        "estimated_runway": "2025-12-27T07:06:00+00:00",
+        "actual_runway": "2025-12-27T07:06:00+00:00"
+      },
+      "arrival": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T08:15:00+00:00",
+        "delay": 9,
+        "estimated": "2025-12-27T08:22:00+00:00",
+        "actual": "2025-12-27T08:24:00+00:00",
+        "estimated_runway": "2025-12-27T08:24:00+00:00",
+        "actual_runway": "2025-12-27T08:24:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "996",
+        "iata": "TU996",
+        "icao": "TAR996",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": "C5",
+        "delay": 1,
+        "scheduled": "2025-12-27T08:40:00+00:00",
+        "estimated": "2025-12-27T08:40:00+00:00",
+        "actual": "2025-12-27T09:17:00+00:00",
+        "estimated_runway": "2025-12-27T09:17:00+00:00",
+        "actual_runway": "2025-12-27T09:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T12:35:00+00:00",
+        "delay": 1,
+        "estimated": "2025-12-27T12:36:00+00:00",
+        "actual": "2025-12-27T12:36:00+00:00",
+        "estimated_runway": "2025-12-27T12:36:00+00:00",
+        "actual_runway": "2025-12-27T12:36:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "147",
+        "iata": "TU147",
+        "icao": "TAR147",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "747",
+          "flight_iata": "ek747",
+          "flight_icao": "uae747"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "896626"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "delay": 52,
+        "scheduled": "2025-12-27T01:55:00+00:00",
+        "estimated": "2025-12-27T01:55:00+00:00",
+        "actual": "2025-12-27T03:21:00+00:00",
+        "estimated_runway": "2025-12-27T03:21:00+00:00",
+        "actual_runway": "2025-12-27T03:21:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T08:05:00+00:00",
+        "delay": 51,
+        "estimated": "2025-12-27T08:56:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "400",
+        "iata": "TU400",
+        "icao": "TAR400",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": 98,
+        "scheduled": "2025-12-27T02:40:00+00:00",
+        "estimated": "2025-12-27T02:40:00+00:00",
+        "actual": "2025-12-27T04:36:00+00:00",
+        "estimated_runway": "2025-12-27T04:36:00+00:00",
+        "actual_runway": "2025-12-27T04:36:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T05:05:00+00:00",
+        "delay": 98,
+        "estimated": "2025-12-27T06:43:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "706",
+        "iata": "TU706",
+        "icao": "TAR706",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": null,
+        "gate": null,
+        "delay": 118,
+        "scheduled": "2025-12-27T02:00:00+00:00",
+        "estimated": "2025-12-27T02:00:00+00:00",
+        "actual": "2025-12-27T04:02:00+00:00",
+        "estimated_runway": "2025-12-27T04:02:00+00:00",
+        "actual_runway": "2025-12-27T04:02:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T03:42:00+00:00",
+        "delay": 118,
+        "estimated": "2025-12-27T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "2757",
+        "iata": "TU2757",
+        "icao": "TAR2757",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-27",
+      "flight_status": null,
+      "departure": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "N",
+        "gate": null,
+        "delay": 63,
+        "scheduled": "2025-12-27T02:40:00+00:00",
+        "estimated": "2025-12-27T02:40:00+00:00",
+        "actual": "2025-12-27T03:54:00+00:00",
+        "estimated_runway": "2025-12-27T03:54:00+00:00",
+        "actual_runway": "2025-12-27T03:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T05:55:00+00:00",
+        "delay": 63,
+        "estimated": "2025-12-27T06:58:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "714",
+        "iata": "TU714",
+        "icao": "TAR714",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bamako",
+        "timezone": "Africa/Bamako",
+        "iata": "BKO",
+        "icao": "GABS",
+        "terminal": null,
+        "gate": null,
+        "delay": 84,
+        "scheduled": "2025-12-26T23:20:00+00:00",
+        "estimated": "2025-12-26T23:20:00+00:00",
+        "actual": "2025-12-27T01:01:00+00:00",
+        "estimated_runway": "2025-12-27T01:01:00+00:00",
+        "actual_runway": "2025-12-27T01:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T00:55:00+00:00",
+        "delay": 83,
+        "estimated": "2025-12-27T02:18:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "400",
+        "iata": "TU400",
+        "icao": "TAR400",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": null,
+        "gate": null,
+        "delay": 131,
+        "scheduled": "2025-12-26T23:30:00+00:00",
+        "estimated": "2025-12-26T23:30:00+00:00",
+        "actual": "2025-12-27T01:38:00+00:00",
+        "estimated_runway": "2025-12-27T01:38:00+00:00",
+        "actual_runway": "2025-12-27T01:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "T1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T01:00:00+00:00",
+        "delay": 130,
+        "estimated": "2025-12-27T03:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "2756",
+        "iata": "TU2756",
+        "icao": "TAR2756",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": null,
+      "departure": {
+        "airport": "Mérignac",
+        "timezone": "Europe/Paris",
+        "iata": "BOD",
+        "icao": "LFBD",
+        "terminal": "B",
+        "gate": "A",
+        "delay": null,
+        "scheduled": "2025-12-26T23:55:00+00:00",
+        "estimated": "2025-12-26T23:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T02:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "629",
+        "iata": "TU629",
+        "icao": "TAR629",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "El Prat De Llobregat",
+        "timezone": "Europe/Madrid",
+        "iata": "BCN",
+        "icao": "LEBL",
+        "terminal": "1",
+        "gate": "D12",
+        "delay": 33,
+        "scheduled": "2025-12-26T23:20:00+00:00",
+        "estimated": "2025-12-26T23:20:00+00:00",
+        "actual": "2025-12-27T00:03:00+00:00",
+        "estimated_runway": "2025-12-27T00:03:00+00:00",
+        "actual_runway": "2025-12-27T00:03:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T00:55:00+00:00",
+        "delay": 33,
+        "estimated": "2025-12-27T01:28:00+00:00",
+        "actual": "2025-12-27T01:28:00+00:00",
+        "estimated_runway": "2025-12-27T01:28:00+00:00",
+        "actual_runway": "2025-12-27T01:28:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "515",
+        "iata": "TU515",
+        "icao": "TAR515",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 89,
+        "scheduled": "2025-12-26T23:05:00+00:00",
+        "estimated": "2025-12-26T23:05:00+00:00",
+        "actual": "2025-12-27T00:57:00+00:00",
+        "estimated_runway": "2025-12-27T00:57:00+00:00",
+        "actual_runway": "2025-12-27T00:57:00+00:00"
+      },
+      "arrival": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T01:50:00+00:00",
+        "delay": 88,
+        "estimated": "2025-12-27T03:18:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "705",
+        "iata": "TU705",
+        "icao": "TAR705",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "delay": 67,
+        "scheduled": "2025-12-26T21:00:00+00:00",
+        "estimated": "2025-12-26T21:00:00+00:00",
+        "actual": "2025-12-26T22:18:00+00:00",
+        "estimated_runway": "2025-12-26T22:18:00+00:00",
+        "actual_runway": "2025-12-26T22:18:00+00:00"
+      },
+      "arrival": {
+        "airport": "Bamako",
+        "timezone": "Africa/Bamako",
+        "iata": "BKO",
+        "icao": "GABS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T22:30:00+00:00",
+        "delay": 66,
+        "estimated": "2025-12-26T23:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "399",
+        "iata": "TU399",
+        "icao": "TAR399",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "1",
+        "gate": null,
+        "delay": 131,
+        "scheduled": "2025-12-26T20:15:00+00:00",
+        "estimated": "2025-12-26T20:15:00+00:00",
+        "actual": "2025-12-26T22:56:00+00:00",
+        "estimated_runway": "2025-12-26T22:56:00+00:00",
+        "actual_runway": "2025-12-26T22:56:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T22:30:00+00:00",
+        "delay": 130,
+        "estimated": "2025-12-27T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "607",
+        "iata": "TU607",
+        "icao": "TAR607",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T20:45:00+00:00",
+        "estimated": "2025-12-26T20:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Mérignac",
+        "timezone": "Europe/Paris",
+        "iata": "BOD",
+        "icao": "LFBD",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T22:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "628",
+        "iata": "TU628",
+        "icao": "TAR628",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 31,
+        "scheduled": "2025-12-26T20:35:00+00:00",
+        "estimated": "2025-12-26T20:35:00+00:00",
+        "actual": "2025-12-26T21:20:00+00:00",
+        "estimated_runway": "2025-12-26T21:20:00+00:00",
+        "actual_runway": "2025-12-26T21:20:00+00:00"
+      },
+      "arrival": {
+        "airport": "El Prat De Llobregat",
+        "timezone": "Europe/Madrid",
+        "iata": "BCN",
+        "icao": "LEBL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "15",
+        "scheduled": "2025-12-26T22:20:00+00:00",
+        "delay": 31,
+        "estimated": "2025-12-26T22:46:00+00:00",
+        "actual": "2025-12-26T22:51:00+00:00",
+        "estimated_runway": "2025-12-26T22:51:00+00:00",
+        "actual_runway": "2025-12-26T22:51:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "514",
+        "iata": "TU514",
+        "icao": "TAR514",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": 156,
+        "scheduled": "2025-12-26T20:20:00+00:00",
+        "estimated": "2025-12-26T20:20:00+00:00",
+        "actual": "2025-12-26T23:17:00+00:00",
+        "estimated_runway": "2025-12-26T23:17:00+00:00",
+        "actual_runway": "2025-12-26T23:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T22:45:00+00:00",
+        "delay": 156,
+        "estimated": "2025-12-27T01:21:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "725",
+        "iata": "TU725",
+        "icao": "TAR725",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": null,
+      "departure": {
+        "airport": "Houari Boumediene",
+        "timezone": "Africa/Algiers",
+        "iata": "ALG",
+        "icao": "DAAG",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T20:35:00+00:00",
+        "estimated": "2025-12-26T20:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T21:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "375",
+        "iata": "TU375",
+        "icao": "TAR375",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 51,
+        "scheduled": "2025-12-26T19:25:00+00:00",
+        "estimated": "2025-12-26T19:25:00+00:00",
+        "actual": "2025-12-26T20:46:00+00:00",
+        "estimated_runway": "2025-12-26T20:46:00+00:00",
+        "actual_runway": "2025-12-26T20:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "N",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-27T01:40:00+00:00",
+        "delay": 51,
+        "estimated": "2025-12-27T02:31:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "713",
+        "iata": "TU713",
+        "icao": "TAR713",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": "986",
+        "delay": null,
+        "scheduled": "2025-12-26T19:00:00+00:00",
+        "estimated": "2025-12-26T19:00:00+00:00",
+        "actual": "2025-12-26T19:03:00+00:00",
+        "estimated_runway": "2025-12-26T19:03:00+00:00",
+        "actual_runway": "2025-12-26T19:03:00+00:00"
+      },
+      "arrival": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T21:50:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T21:33:00+00:00",
+        "actual": "2025-12-26T21:31:00+00:00",
+        "estimated_runway": "2025-12-26T21:31:00+00:00",
+        "actual_runway": "2025-12-26T21:31:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "649",
+        "iata": "TU649",
+        "icao": "TAR649",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Charles De Gaulle",
+        "timezone": "Europe/Paris",
+        "iata": "CDG",
+        "icao": "LFPG",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T18:30:00+00:00",
+        "estimated": "2025-12-26T18:30:00+00:00",
+        "actual": "2025-12-26T18:47:00+00:00",
+        "estimated_runway": "2025-12-26T18:47:00+00:00",
+        "actual_runway": "2025-12-26T18:47:00+00:00"
+      },
+      "arrival": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T21:10:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T21:15:00+00:00",
+        "actual": "2025-12-26T21:06:00+00:00",
+        "estimated_runway": "2025-12-26T21:06:00+00:00",
+        "actual_runway": "2025-12-26T21:06:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "441",
+        "iata": "TU441",
+        "icao": "TAR441",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": null,
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "4",
+        "gate": "D",
+        "delay": null,
+        "scheduled": "2025-12-26T16:50:00+00:00",
+        "estimated": "2025-12-26T16:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T20:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "791",
+        "iata": "TU791",
+        "icao": "TAR791",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A198"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": null,
+      "departure": {
+        "airport": "Geneve-cointrin",
+        "timezone": "Europe/Zurich",
+        "iata": "GVA",
+        "icao": "LSGG",
+        "terminal": "1",
+        "gate": "29-3",
+        "delay": null,
+        "scheduled": "2025-12-26T17:45:00+00:00",
+        "estimated": "2025-12-26T17:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T19:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "701",
+        "iata": "TU701",
+        "icao": "TAR701",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": 37,
+        "scheduled": "2025-12-26T17:00:00+00:00",
+        "estimated": "2025-12-26T17:00:00+00:00",
+        "actual": "2025-12-26T17:53:00+00:00",
+        "estimated_runway": "2025-12-26T17:53:00+00:00",
+        "actual_runway": "2025-12-26T17:53:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T19:25:00+00:00",
+        "delay": 37,
+        "estimated": "2025-12-26T20:00:00+00:00",
+        "actual": "2025-12-26T20:02:00+00:00",
+        "estimated_runway": "2025-12-26T20:02:00+00:00",
+        "actual_runway": "2025-12-26T20:02:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "723",
+        "iata": "TU723",
+        "icao": "TAR723",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 76,
+        "scheduled": "2025-12-26T15:40:00+00:00",
+        "estimated": "2025-12-26T15:40:00+00:00",
+        "actual": "2025-12-26T16:54:00+00:00",
+        "estimated_runway": "2025-12-26T16:54:00+00:00",
+        "actual_runway": "2025-12-26T16:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T20:00:00+00:00",
+        "delay": 75,
+        "estimated": "2025-12-26T21:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "399",
+        "iata": "TU399",
+        "icao": "TAR399",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Düsseldorf International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "DUS",
+        "icao": "EDDL",
+        "terminal": null,
+        "gate": "240-",
+        "delay": 23,
+        "scheduled": "2025-12-26T15:45:00+00:00",
+        "estimated": "2025-12-26T15:45:00+00:00",
+        "actual": "2025-12-26T16:31:00+00:00",
+        "estimated_runway": "2025-12-26T16:31:00+00:00",
+        "actual_runway": "2025-12-26T16:31:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T18:25:00+00:00",
+        "delay": 23,
+        "estimated": "2025-12-26T18:49:00+00:00",
+        "actual": "2025-12-26T18:48:00+00:00",
+        "estimated_runway": "2025-12-26T18:48:00+00:00",
+        "actual_runway": "2025-12-26T18:48:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "527",
+        "iata": "TU527",
+        "icao": "TAR527",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "delay": 120,
+        "scheduled": "2025-12-26T15:20:00+00:00",
+        "estimated": "2025-12-26T15:20:00+00:00",
+        "actual": "2025-12-26T17:39:00+00:00",
+        "estimated_runway": "2025-12-26T17:39:00+00:00",
+        "actual_runway": "2025-12-26T17:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T16:55:00+00:00",
+        "delay": 120,
+        "estimated": "2025-12-26T18:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "903",
+        "iata": "TU903",
+        "icao": "TAR903",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Franz Josef Strauss",
+        "timezone": "Europe/Berlin",
+        "iata": "MUC",
+        "icao": "EDDM",
+        "terminal": "1",
+        "gate": "C04",
+        "delay": 15,
+        "scheduled": "2025-12-26T14:10:00+00:00",
+        "estimated": "2025-12-26T14:10:00+00:00",
+        "actual": "2025-12-26T14:44:00+00:00",
+        "estimated_runway": "2025-12-26T14:44:00+00:00",
+        "actual_runway": "2025-12-26T14:44:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T16:15:00+00:00",
+        "delay": 15,
+        "estimated": "2025-12-26T16:29:00+00:00",
+        "actual": "2025-12-26T16:30:00+00:00",
+        "estimated_runway": "2025-12-26T16:30:00+00:00",
+        "actual_runway": "2025-12-26T16:30:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "543",
+        "iata": "TU543",
+        "icao": "TAR543",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T14:55:00+00:00",
+        "estimated": "2025-12-26T14:55:00+00:00",
+        "actual": "2025-12-26T15:06:00+00:00",
+        "estimated_runway": "2025-12-26T15:06:00+00:00",
+        "actual_runway": "2025-12-26T15:06:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": "7",
+        "scheduled": "2025-12-26T23:30:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T23:02:00+00:00",
+        "actual": "2025-12-26T23:06:00+00:00",
+        "estimated_runway": "2025-12-26T23:06:00+00:00",
+        "actual_runway": "2025-12-26T23:06:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "148",
+        "iata": "TU148",
+        "icao": "TAR148",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "748",
+          "flight_iata": "ek748",
+          "flight_icao": "uae748"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "89667B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T14:30:00+00:00",
+        "estimated": "2025-12-26T14:30:00+00:00",
+        "actual": "2025-12-26T14:33:00+00:00",
+        "estimated_runway": "2025-12-26T14:33:00+00:00",
+        "actual_runway": "2025-12-26T14:33:00+00:00"
+      },
+      "arrival": {
+        "airport": "Queen Alia International",
+        "timezone": "Asia/Amman",
+        "iata": "AMM",
+        "icao": "OJAI",
+        "terminal": "3",
+        "gate": "104",
+        "baggage": null,
+        "scheduled": "2025-12-26T20:10:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T19:40:00+00:00",
+        "actual": "2025-12-26T19:40:00+00:00",
+        "estimated_runway": "2025-12-26T19:40:00+00:00",
+        "actual_runway": "2025-12-26T19:40:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "152",
+        "iata": "TU152",
+        "icao": "TAR152",
+        "codeshared": {
+          "airline_name": "royal jordanian",
+          "airline_iata": "rj",
+          "airline_icao": "rja",
+          "flight_number": "552",
+          "flight_iata": "rj552",
+          "flight_icao": "rja552"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "74482B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-26T15:00:00+00:00",
+        "estimated": "2025-12-26T15:00:00+00:00",
+        "actual": "2025-12-26T15:11:00+00:00",
+        "estimated_runway": "2025-12-26T15:11:00+00:00",
+        "actual_runway": "2025-12-26T15:11:00+00:00"
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "56",
+        "scheduled": "2025-12-26T18:00:00+00:00",
+        "delay": null,
+        "estimated": "2025-12-26T17:34:00+00:00",
+        "actual": "2025-12-26T17:36:00+00:00",
+        "estimated_runway": "2025-12-26T17:36:00+00:00",
+        "actual_runway": "2025-12-26T17:36:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "648",
+        "iata": "TU648",
+        "icao": "TAR648",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-26",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Entzheim",
+        "timezone": "Europe/Paris",
+        "iata": "SXB",
+        "icao": "LFST",
+        "terminal": null,
+        "gate": null,
+        "delay": 68,
+        "scheduled": "2025-12-26T15:05:00+00:00",
+        "estimated": "2025-12-26T15:05:00+00:00",
+        "actual": "2025-12-26T16:29:00+00:00",
+        "estimated_runway": "2025-12-26T16:29:00+00:00",
+        "actual_runway": "2025-12-26T16:29:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-26T17:15:00+00:00",
+        "delay": 68,
+        "estimated": "2025-12-26T18:23:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "247",
+        "iata": "TU247",
+        "icao": "TAR247",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
       "flight_date": "2025-12-23",
       "flight_status": "scheduled",
       "departure": {
