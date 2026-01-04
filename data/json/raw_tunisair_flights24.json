@@ -1,0 +1,4335 @@
+{
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "count": 85,
+    "total": 85
+  },
+  "data": [
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T12:30:00+00:00",
+        "estimated": "2026-01-04T12:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Charles De Gaulle",
+        "timezone": "Europe/Paris",
+        "iata": "CDG",
+        "icao": "LFPG",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T15:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "440",
+        "iata": "TU440",
+        "icao": "TAR440",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T12:40:00+00:00",
+        "estimated": "2026-01-04T12:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T14:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "998",
+        "iata": "TU998",
+        "icao": "TAR998",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T12:25:00+00:00",
+        "estimated": "2026-01-04T12:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Houari Boumediene",
+        "timezone": "Africa/Algiers",
+        "iata": "ALG",
+        "icao": "DAAG",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T13:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "374",
+        "iata": "TU374",
+        "icao": "TAR374",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T11:15:00+00:00",
+        "estimated": "2026-01-04T11:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T13:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "955",
+        "iata": "TU955",
+        "icao": "TAR955",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T11:50:00+00:00",
+        "estimated": "2026-01-04T11:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T14:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "719",
+        "iata": "TU719",
+        "icao": "TAR719",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Queen Alia International",
+        "timezone": "Asia/Amman",
+        "iata": "AMM",
+        "icao": "OJAI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T13:40:00+00:00",
+        "estimated": "2026-01-04T13:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T15:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "151",
+        "iata": "TU151",
+        "icao": "TAR151",
+        "codeshared": {
+          "airline_name": "royal jordanian",
+          "airline_iata": "rj",
+          "airline_icao": "rja",
+          "flight_number": "551",
+          "flight_iata": "rj551",
+          "flight_icao": "rja551"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T12:05:00+00:00",
+        "estimated": "2026-01-04T12:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T13:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "856",
+        "iata": "TU856",
+        "icao": "TAR856",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T10:35:00+00:00",
+        "estimated": "2026-01-04T10:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T13:00:00+00:00",
+        "delay": 7,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "745",
+        "iata": "TU745",
+        "icao": "TAR745",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Leonardo Da Vinci (Fiumicino)",
+        "timezone": "Europe/Rome",
+        "iata": "FCO",
+        "icao": "LIRF",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T10:20:00+00:00",
+        "estimated": "2026-01-04T10:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T11:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "753",
+        "iata": "TU753",
+        "icao": "TAR753",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T10:35:00+00:00",
+        "estimated": "2026-01-04T10:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T13:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "635",
+        "iata": "TU635",
+        "icao": "TAR635",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Vienna International",
+        "timezone": "Europe/Vienna",
+        "iata": "VIE",
+        "icao": "LOWW",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T10:20:00+00:00",
+        "estimated": "2026-01-04T10:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T12:25:00+00:00",
+        "delay": 76,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "643",
+        "iata": "TU643",
+        "icao": "TAR643",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T10:30:00+00:00",
+        "estimated": "2026-01-04T10:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T12:25:00+00:00",
+        "delay": 115,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "757",
+        "iata": "TU757",
+        "icao": "TAR757",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T09:50:00+00:00",
+        "estimated": "2026-01-04T09:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T11:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "251",
+        "iata": "TU251",
+        "icao": "TAR251",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T09:15:00+00:00",
+        "estimated": "2026-01-04T09:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T10:50:00+00:00",
+        "delay": 147,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "997",
+        "iata": "TU997",
+        "icao": "TAR997",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T09:25:00+00:00",
+        "estimated": "2026-01-04T09:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T11:00:00+00:00",
+        "delay": 61,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "931",
+        "iata": "TU931",
+        "icao": "TAR931",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T07:55:00+00:00",
+        "estimated": "2026-01-04T07:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Leonardo Da Vinci (Fiumicino)",
+        "timezone": "Europe/Rome",
+        "iata": "FCO",
+        "icao": "LIRF",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T09:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "752",
+        "iata": "TU752",
+        "icao": "TAR752",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T07:50:00+00:00",
+        "estimated": "2026-01-04T07:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T10:25:00+00:00",
+        "delay": 20,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "954",
+        "iata": "TU954",
+        "icao": "TAR954",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T07:50:00+00:00",
+        "estimated": "2026-01-04T07:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T10:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "718",
+        "iata": "TU718",
+        "icao": "TAR718",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A0AD"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T07:45:00+00:00",
+        "estimated": "2026-01-04T07:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T09:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "756",
+        "iata": "TU756",
+        "icao": "TAR756",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T07:10:00+00:00",
+        "estimated": "2026-01-04T07:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T08:50:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "250",
+        "iata": "TU250",
+        "icao": "TAR250",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T07:05:00+00:00",
+        "estimated": "2026-01-04T07:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Vienna International",
+        "timezone": "Europe/Vienna",
+        "iata": "VIE",
+        "icao": "LOWW",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T09:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "642",
+        "iata": "TU642",
+        "icao": "TAR642",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T07:00:00+00:00",
+        "estimated": "2026-01-04T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T09:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "744",
+        "iata": "TU744",
+        "icao": "TAR744",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T06:50:00+00:00",
+        "estimated": "2026-01-04T06:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "4",
+        "scheduled": "2026-01-04T08:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "930",
+        "iata": "TU930",
+        "icao": "TAR930",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T06:45:00+00:00",
+        "estimated": "2026-01-04T06:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T08:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "996",
+        "iata": "TU996",
+        "icao": "TAR996",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T06:50:00+00:00",
+        "estimated": "2026-01-04T06:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T09:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "634",
+        "iata": "TU634",
+        "icao": "TAR634",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": "A6b",
+        "delay": 4,
+        "scheduled": "2026-01-04T08:40:00+00:00",
+        "estimated": "2026-01-04T08:40:00+00:00",
+        "actual": "2026-01-04T09:28:00+00:00",
+        "estimated_runway": "2026-01-04T09:28:00+00:00",
+        "actual_runway": "2026-01-04T09:28:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T12:35:00+00:00",
+        "delay": 49,
+        "estimated": "2026-01-04T12:39:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "147",
+        "iata": "TU147",
+        "icao": "TAR147",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "747",
+          "flight_iata": "ek747",
+          "flight_icao": "uae747"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "896621"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Niamey",
+        "timezone": "Africa/Niamey",
+        "iata": "NIM",
+        "icao": "DRRN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T02:15:00+00:00",
+        "estimated": "2026-01-04T02:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T06:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "401",
+        "iata": "TU401",
+        "icao": "TAR401",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TS-ITB",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "02A261"
+      },
+      "live": {
+        "updated": "2026-01-04T05:56:11+00:00",
+        "latitude": 36.3696,
+        "longitude": 10.1592,
+        "altitude": 3322.32,
+        "direction": 6,
+        "speed_horizontal": 687.092,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Cairo International Airport",
+        "timezone": "Africa/Cairo",
+        "iata": "CAI",
+        "icao": "HECA",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T03:15:00+00:00",
+        "estimated": "2026-01-04T03:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T05:35:00+00:00",
+        "delay": 75,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "814",
+        "iata": "TU814",
+        "icao": "TAR814",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "unknown",
+      "departure": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T02:00:00+00:00",
+        "estimated": "2026-01-04T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T04:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "706",
+        "iata": "TU706",
+        "icao": "TAR706",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": null,
+        "gate": "R17-",
+        "delay": null,
+        "scheduled": "2026-01-04T03:50:00+00:00",
+        "estimated": "2026-01-04T03:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T04:40:00+00:00",
+        "delay": 190,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "217",
+        "iata": "TU217",
+        "icao": "TAR217",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-04",
+      "flight_status": "unknown",
+      "departure": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "N",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-04T01:55:00+00:00",
+        "estimated": "2026-01-04T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T04:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "914",
+        "iata": "TU914",
+        "icao": "TAR914",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TS-IMW",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "02A196"
+      },
+      "live": {
+        "updated": "2026-01-04T05:51:48+00:00",
+        "latitude": 36.2904,
+        "longitude": 13.9819,
+        "altitude": 10370.8,
+        "direction": 280,
+        "speed_horizontal": 720.428,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "unknown",
+      "departure": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T22:30:00+00:00",
+        "estimated": "2026-01-03T22:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Niamey",
+        "timezone": "Africa/Niamey",
+        "iata": "NIM",
+        "icao": "DRRN",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T01:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "401",
+        "iata": "TU401",
+        "icao": "TAR401",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Conakry",
+        "timezone": "Africa/Conakry",
+        "iata": "CKY",
+        "icao": "GUCY",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T22:55:00+00:00",
+        "estimated": "2026-01-03T22:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T05:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "343",
+        "iata": "TU343",
+        "icao": "TAR343",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T22:25:00+00:00",
+        "estimated": "2026-01-03T22:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T01:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "705",
+        "iata": "TU705",
+        "icao": "TAR705",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 81,
+        "scheduled": "2026-01-03T22:10:00+00:00",
+        "estimated": "2026-01-03T22:10:00+00:00",
+        "actual": "2026-01-03T23:50:00+00:00",
+        "estimated_runway": "2026-01-03T23:50:00+00:00",
+        "actual_runway": "2026-01-03T23:50:00+00:00"
+      },
+      "arrival": {
+        "airport": "Cairo International Airport",
+        "timezone": "Africa/Cairo",
+        "iata": "CAI",
+        "icao": "HECA",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "B11",
+        "scheduled": "2026-01-04T02:15:00+00:00",
+        "delay": 81,
+        "estimated": "2026-01-04T03:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "813",
+        "iata": "TU813",
+        "icao": "TAR813",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T22:10:00+00:00",
+        "estimated": "2026-01-03T22:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "18B",
+        "scheduled": "2026-01-04T02:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "216",
+        "iata": "TU216",
+        "icao": "TAR216",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Blaise Diagne International Airport\r\n",
+        "timezone": null,
+        "iata": "DSS",
+        "icao": "GOBD",
+        "terminal": null,
+        "gate": null,
+        "delay": 62,
+        "scheduled": "2026-01-03T20:45:00+00:00",
+        "estimated": "2026-01-03T20:45:00+00:00",
+        "actual": "2026-01-03T22:02:00+00:00",
+        "estimated_runway": "2026-01-03T22:02:00+00:00",
+        "actual_runway": "2026-01-03T22:02:00+00:00"
+      },
+      "arrival": {
+        "airport": "Conakry",
+        "timezone": "Africa/Conakry",
+        "iata": "CKY",
+        "icao": "GUCY",
+        "terminal": "2E",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T22:05:00+00:00",
+        "delay": 61,
+        "estimated": "2026-01-03T23:06:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "343",
+        "iata": "TU343",
+        "icao": "TAR343",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T21:05:00+00:00",
+        "estimated": "2026-01-03T21:05:00+00:00",
+        "actual": "2026-01-03T21:18:00+00:00",
+        "estimated_runway": "2026-01-03T21:18:00+00:00",
+        "actual_runway": "2026-01-03T21:18:00+00:00"
+      },
+      "arrival": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T22:50:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T22:45:00+00:00",
+        "actual": "2026-01-03T22:46:00+00:00",
+        "estimated_runway": "2026-01-03T22:46:00+00:00",
+        "actual_runway": "2026-01-03T22:46:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "681",
+        "iata": "TU681",
+        "icao": "TAR681",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": 138,
+        "scheduled": "2026-01-03T20:45:00+00:00",
+        "estimated": "2026-01-03T20:45:00+00:00",
+        "actual": "2026-01-03T23:26:00+00:00",
+        "estimated_runway": "2026-01-03T23:26:00+00:00",
+        "actual_runway": "2026-01-03T23:26:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T23:10:00+00:00",
+        "delay": 137,
+        "estimated": "2026-01-04T01:27:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "725",
+        "iata": "TU725",
+        "icao": "TAR725",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T20:20:00+00:00",
+        "estimated": "2026-01-03T20:20:00+00:00",
+        "actual": "2026-01-03T20:44:00+00:00",
+        "estimated_runway": "2026-01-03T20:44:00+00:00",
+        "actual_runway": "2026-01-03T20:44:00+00:00"
+      },
+      "arrival": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T23:10:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T23:06:00+00:00",
+        "actual": "2026-01-03T23:07:00+00:00",
+        "estimated_runway": "2026-01-03T23:07:00+00:00",
+        "actual_runway": "2026-01-03T23:07:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "635",
+        "iata": "TU635",
+        "icao": "TAR635",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pierre Elliott Trudeau International",
+        "timezone": "America/Montreal",
+        "iata": "YUL",
+        "icao": "CYUL",
+        "terminal": null,
+        "gate": null,
+        "delay": 338,
+        "scheduled": "2026-01-03T14:15:00+00:00",
+        "estimated": "2026-01-03T14:15:00+00:00",
+        "actual": "2026-01-03T20:43:00+00:00",
+        "estimated_runway": "2026-01-03T20:43:00+00:00",
+        "actual_runway": "2026-01-03T20:43:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T04:30:00+00:00",
+        "delay": 338,
+        "estimated": "2026-01-04T10:08:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "203",
+        "iata": "TU203",
+        "icao": "TAR203",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TS-IFN",
+        "iata": "A332",
+        "icao": "A332",
+        "icao24": "02A0AD"
+      },
+      "live": {
+        "updated": "2026-01-04T05:56:34+00:00",
+        "latitude": 44.268,
+        "longitude": -21.1218,
+        "altitude": 10668,
+        "direction": 96,
+        "speed_horizontal": 905.628,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Geneve-cointrin",
+        "timezone": "Europe/Zurich",
+        "iata": "GVA",
+        "icao": "LSGG",
+        "terminal": "1",
+        "gate": "29-3",
+        "delay": 81,
+        "scheduled": "2026-01-03T19:10:00+00:00",
+        "estimated": "2026-01-03T19:10:00+00:00",
+        "actual": "2026-01-03T20:43:00+00:00",
+        "estimated_runway": "2026-01-03T20:43:00+00:00",
+        "actual_runway": "2026-01-03T20:43:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T21:05:00+00:00",
+        "delay": 80,
+        "estimated": "2026-01-03T22:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "701",
+        "iata": "TU701",
+        "icao": "TAR701",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 149,
+        "scheduled": "2026-01-03T18:25:00+00:00",
+        "estimated": "2026-01-03T18:25:00+00:00",
+        "actual": "2026-01-03T21:20:00+00:00",
+        "estimated_runway": "2026-01-03T21:20:00+00:00",
+        "actual_runway": "2026-01-03T21:20:00+00:00"
+      },
+      "arrival": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "N",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-04T00:50:00+00:00",
+        "delay": 149,
+        "estimated": "2026-01-04T03:19:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "913",
+        "iata": "TU913",
+        "icao": "TAR913",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T18:20:00+00:00",
+        "estimated": "2026-01-03T18:20:00+00:00",
+        "actual": "2026-01-03T18:27:00+00:00",
+        "estimated_runway": "2026-01-03T18:27:00+00:00",
+        "actual_runway": "2026-01-03T18:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "4",
+        "scheduled": "2026-01-03T20:05:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T19:53:00+00:00",
+        "actual": "2026-01-03T19:53:00+00:00",
+        "estimated_runway": "2026-01-03T19:53:00+00:00",
+        "actual_runway": "2026-01-03T19:53:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "680",
+        "iata": "TU680",
+        "icao": "TAR680",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 167,
+        "scheduled": "2026-01-03T17:20:00+00:00",
+        "estimated": "2026-01-03T17:20:00+00:00",
+        "actual": "2026-01-03T20:25:00+00:00",
+        "estimated_runway": "2026-01-03T20:25:00+00:00",
+        "actual_runway": "2026-01-03T20:25:00+00:00"
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T19:46:00+00:00",
+        "delay": 166,
+        "estimated": "2026-01-03T22:32:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "724",
+        "iata": "TU724",
+        "icao": "TAR724",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 76,
+        "scheduled": "2026-01-03T17:10:00+00:00",
+        "estimated": "2026-01-03T17:10:00+00:00",
+        "actual": "2026-01-03T18:35:00+00:00",
+        "estimated_runway": "2026-01-03T18:35:00+00:00",
+        "actual_runway": "2026-01-03T18:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T21:30:00+00:00",
+        "delay": 76,
+        "estimated": "2026-01-03T22:46:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "401",
+        "iata": "TU401",
+        "icao": "TAR401",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": null,
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "4",
+        "gate": "D",
+        "delay": null,
+        "scheduled": "2026-01-03T16:50:00+00:00",
+        "estimated": "2026-01-03T16:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T20:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "791",
+        "iata": "TU791",
+        "icao": "TAR791",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T16:35:00+00:00",
+        "estimated": "2026-01-03T16:35:00+00:00",
+        "actual": "2026-01-03T16:39:00+00:00",
+        "estimated_runway": "2026-01-03T16:39:00+00:00",
+        "actual_runway": "2026-01-03T16:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T19:20:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T19:06:00+00:00",
+        "actual": "2026-01-03T19:11:00+00:00",
+        "estimated_runway": "2026-01-03T19:11:00+00:00",
+        "actual_runway": "2026-01-03T19:11:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "634",
+        "iata": "TU634",
+        "icao": "TAR634",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A194"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 85,
+        "scheduled": "2026-01-03T16:15:00+00:00",
+        "estimated": "2026-01-03T16:15:00+00:00",
+        "actual": "2026-01-03T17:47:00+00:00",
+        "estimated_runway": "2026-01-03T17:47:00+00:00",
+        "actual_runway": "2026-01-03T17:47:00+00:00"
+      },
+      "arrival": {
+        "airport": "Geneve-cointrin",
+        "timezone": "Europe/Zurich",
+        "iata": "GVA",
+        "icao": "LSGG",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "4",
+        "scheduled": "2026-01-03T18:10:00+00:00",
+        "delay": 84,
+        "estimated": "2026-01-03T19:34:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "700",
+        "iata": "TU700",
+        "icao": "TAR700",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "delay": 20,
+        "scheduled": "2026-01-03T17:00:00+00:00",
+        "estimated": "2026-01-03T17:00:00+00:00",
+        "actual": "2026-01-03T17:46:00+00:00",
+        "estimated_runway": "2026-01-03T17:46:00+00:00",
+        "actual_runway": "2026-01-03T17:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T19:25:00+00:00",
+        "delay": 20,
+        "estimated": "2026-01-03T19:45:00+00:00",
+        "actual": "2026-01-03T19:45:00+00:00",
+        "estimated_runway": "2026-01-03T19:45:00+00:00",
+        "actual_runway": "2026-01-03T19:45:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "723",
+        "iata": "TU723",
+        "icao": "TAR723",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 64,
+        "scheduled": "2026-01-03T15:30:00+00:00",
+        "estimated": "2026-01-03T15:30:00+00:00",
+        "actual": "2026-01-03T16:41:00+00:00",
+        "estimated_runway": "2026-01-03T16:41:00+00:00",
+        "actual_runway": "2026-01-03T16:41:00+00:00"
+      },
+      "arrival": {
+        "airport": "Blaise Diagne International Airport\r\n",
+        "timezone": null,
+        "iata": "DSS",
+        "icao": "GOBD",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T19:55:00+00:00",
+        "delay": 63,
+        "estimated": "2026-01-03T20:58:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "343",
+        "iata": "TU343",
+        "icao": "TAR343",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T15:20:00+00:00",
+        "estimated": "2026-01-03T15:20:00+00:00",
+        "actual": "2026-01-03T15:38:00+00:00",
+        "estimated_runway": "2026-01-03T15:38:00+00:00",
+        "actual_runway": "2026-01-03T15:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T17:00:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T17:00:00+00:00",
+        "actual": "2026-01-03T16:59:00+00:00",
+        "estimated_runway": "2026-01-03T16:59:00+00:00",
+        "actual_runway": "2026-01-03T16:59:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "251",
+        "iata": "TU251",
+        "icao": "TAR251",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Houari Boumediene",
+        "timezone": "Africa/Algiers",
+        "iata": "ALG",
+        "icao": "DAAG",
+        "terminal": "1",
+        "gate": null,
+        "delay": 36,
+        "scheduled": "2026-01-03T14:25:00+00:00",
+        "estimated": "2026-01-03T14:25:00+00:00",
+        "actual": "2026-01-03T15:16:00+00:00",
+        "estimated_runway": "2026-01-03T15:16:00+00:00",
+        "actual_runway": "2026-01-03T15:16:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T15:35:00+00:00",
+        "delay": 36,
+        "estimated": "2026-01-03T16:12:00+00:00",
+        "actual": "2026-01-03T16:11:00+00:00",
+        "estimated_runway": "2026-01-03T16:11:00+00:00",
+        "actual_runway": "2026-01-03T16:11:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "375",
+        "iata": "TU375",
+        "icao": "TAR375",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 32,
+        "scheduled": "2026-01-03T14:55:00+00:00",
+        "estimated": "2026-01-03T14:55:00+00:00",
+        "actual": "2026-01-03T16:09:00+00:00",
+        "estimated_runway": "2026-01-03T16:09:00+00:00",
+        "actual_runway": "2026-01-03T16:09:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": "8",
+        "scheduled": "2026-01-03T23:30:00+00:00",
+        "delay": 32,
+        "estimated": "2026-01-03T23:59:00+00:00",
+        "actual": "2026-01-04T00:02:00+00:00",
+        "estimated_runway": "2026-01-04T00:02:00+00:00",
+        "actual_runway": "2026-01-04T00:02:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "148",
+        "iata": "TU148",
+        "icao": "TAR148",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "748",
+          "flight_iata": "ek748",
+          "flight_icao": "uae748"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "896623"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": null,
+      "departure": {
+        "airport": "Blagnac",
+        "timezone": "Europe/Paris",
+        "iata": "TLS",
+        "icao": "LFBO",
+        "terminal": null,
+        "gate": "C17",
+        "delay": null,
+        "scheduled": "2026-01-03T14:40:00+00:00",
+        "estimated": "2026-01-03T14:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T16:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "283",
+        "iata": "TU283",
+        "icao": "TAR283",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Es Senia",
+        "timezone": "Africa/Algiers",
+        "iata": "ORN",
+        "icao": "DAOO",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T14:45:00+00:00",
+        "estimated": "2026-01-03T14:45:00+00:00",
+        "actual": "2026-01-03T14:38:00+00:00",
+        "estimated_runway": "2026-01-03T14:38:00+00:00",
+        "actual_runway": "2026-01-03T14:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T16:25:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T16:04:00+00:00",
+        "actual": "2026-01-03T15:59:00+00:00",
+        "estimated_runway": "2026-01-03T15:59:00+00:00",
+        "actual_runway": "2026-01-03T15:59:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "709",
+        "iata": "TU709",
+        "icao": "TAR709",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 193,
+        "scheduled": "2026-01-03T13:45:00+00:00",
+        "estimated": "2026-01-03T13:45:00+00:00",
+        "actual": "2026-01-03T17:31:00+00:00",
+        "estimated_runway": "2026-01-03T17:31:00+00:00",
+        "actual_runway": "2026-01-03T17:31:00+00:00"
+      },
+      "arrival": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T15:50:00+00:00",
+        "delay": 193,
+        "estimated": "2026-01-03T19:03:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "790",
+        "iata": "TU790",
+        "icao": "TAR790",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 6,
+        "scheduled": "2026-01-03T13:35:00+00:00",
+        "estimated": "2026-01-03T13:35:00+00:00",
+        "actual": "2026-01-03T13:54:00+00:00",
+        "estimated_runway": "2026-01-03T13:54:00+00:00",
+        "actual_runway": "2026-01-03T13:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Orly",
+        "timezone": "Europe/Paris",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T16:00:00+00:00",
+        "delay": 6,
+        "estimated": "2026-01-03T16:04:00+00:00",
+        "actual": "2026-01-03T16:06:00+00:00",
+        "estimated_runway": "2026-01-03T16:06:00+00:00",
+        "actual_runway": "2026-01-03T16:06:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "722",
+        "iata": "TU722",
+        "icao": "TAR722",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T12:40:00+00:00",
+        "estimated": "2026-01-03T12:40:00+00:00",
+        "actual": "2026-01-03T12:40:00+00:00",
+        "estimated_runway": "2026-01-03T12:40:00+00:00",
+        "actual_runway": "2026-01-03T12:40:00+00:00"
+      },
+      "arrival": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T14:20:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T14:01:00+00:00",
+        "actual": "2026-01-03T14:04:00+00:00",
+        "estimated_runway": "2026-01-03T14:04:00+00:00",
+        "actual_runway": "2026-01-03T14:04:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "250",
+        "iata": "TU250",
+        "icao": "TAR250",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": null,
+        "gate": null,
+        "delay": 22,
+        "scheduled": "2026-01-03T11:25:00+00:00",
+        "estimated": "2026-01-03T11:25:00+00:00",
+        "actual": "2026-01-03T12:14:00+00:00",
+        "estimated_runway": "2026-01-03T12:14:00+00:00",
+        "actual_runway": "2026-01-03T12:14:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T14:05:00+00:00",
+        "delay": 22,
+        "estimated": "2026-01-03T14:27:00+00:00",
+        "actual": "2026-01-03T14:27:00+00:00",
+        "estimated_runway": "2026-01-03T14:27:00+00:00",
+        "actual_runway": "2026-01-03T14:27:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "955",
+        "iata": "TU955",
+        "icao": "TAR955",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 20,
+        "scheduled": "2026-01-03T12:05:00+00:00",
+        "estimated": "2026-01-03T12:05:00+00:00",
+        "actual": "2026-01-03T12:45:00+00:00",
+        "estimated_runway": "2026-01-03T12:45:00+00:00",
+        "actual_runway": "2026-01-03T12:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Houari Boumediene",
+        "timezone": "Africa/Algiers",
+        "iata": "ALG",
+        "icao": "DAAG",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T13:25:00+00:00",
+        "delay": 20,
+        "estimated": "2026-01-03T13:44:00+00:00",
+        "actual": "2026-01-03T13:45:00+00:00",
+        "estimated_runway": "2026-01-03T13:45:00+00:00",
+        "actual_runway": "2026-01-03T13:45:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "374",
+        "iata": "TU374",
+        "icao": "TAR374",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T12:00:00+00:00",
+        "estimated": "2026-01-03T12:00:00+00:00",
+        "actual": "2026-01-03T12:13:00+00:00",
+        "estimated_runway": "2026-01-03T12:13:00+00:00",
+        "actual_runway": "2026-01-03T12:13:00+00:00"
+      },
+      "arrival": {
+        "airport": "Es Senia",
+        "timezone": "Africa/Algiers",
+        "iata": "ORN",
+        "icao": "DAOO",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T13:45:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T13:41:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "708",
+        "iata": "TU708",
+        "icao": "TAR708",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T12:00:00+00:00",
+        "estimated": "2026-01-03T12:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Blagnac",
+        "timezone": "Europe/Paris",
+        "iata": "TLS",
+        "icao": "LFBO",
+        "terminal": null,
+        "gate": "4",
+        "baggage": "6",
+        "scheduled": "2026-01-03T13:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "282",
+        "iata": "TU282",
+        "icao": "TAR282",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Guglielmo Marconi",
+        "timezone": "Europe/Rome",
+        "iata": "BLQ",
+        "icao": "LIPE",
+        "terminal": null,
+        "gate": "A19",
+        "delay": 97,
+        "scheduled": "2026-01-03T11:10:00+00:00",
+        "estimated": "2026-01-03T11:10:00+00:00",
+        "actual": "2026-01-03T13:04:00+00:00",
+        "estimated_runway": "2026-01-03T13:04:00+00:00",
+        "actual_runway": "2026-01-03T13:04:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T12:45:00+00:00",
+        "delay": 97,
+        "estimated": "2026-01-03T14:22:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "363",
+        "iata": "TU363",
+        "icao": "TAR363",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": "986",
+        "delay": 66,
+        "scheduled": "2026-01-03T11:30:00+00:00",
+        "estimated": "2026-01-03T11:30:00+00:00",
+        "actual": "2026-01-03T12:59:00+00:00",
+        "estimated_runway": "2026-01-03T12:59:00+00:00",
+        "actual_runway": "2026-01-03T12:59:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T13:55:00+00:00",
+        "delay": 65,
+        "estimated": "2026-01-03T15:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "745",
+        "iata": "TU745",
+        "icao": "TAR745",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Leonardo Da Vinci (Fiumicino)",
+        "timezone": "Europe/Rome",
+        "iata": "FCO",
+        "icao": "LIRF",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T10:20:00+00:00",
+        "estimated": "2026-01-03T10:20:00+00:00",
+        "actual": "2026-01-03T10:26:00+00:00",
+        "estimated_runway": "2026-01-03T10:26:00+00:00",
+        "actual_runway": "2026-01-03T10:26:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T11:35:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T11:24:00+00:00",
+        "actual": "2026-01-03T11:21:00+00:00",
+        "estimated_runway": "2026-01-03T11:21:00+00:00",
+        "actual_runway": "2026-01-03T11:21:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "753",
+        "iata": "TU753",
+        "icao": "TAR753",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T10:30:00+00:00",
+        "estimated": "2026-01-03T10:30:00+00:00",
+        "actual": "2026-01-03T10:57:00+00:00",
+        "estimated_runway": "2026-01-03T10:57:00+00:00",
+        "actual_runway": "2026-01-03T10:57:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T12:25:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T12:28:00+00:00",
+        "actual": "2026-01-03T12:25:00+00:00",
+        "estimated_runway": "2026-01-03T12:25:00+00:00",
+        "actual_runway": "2026-01-03T12:25:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "757",
+        "iata": "TU757",
+        "icao": "TAR757",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T09:15:00+00:00",
+        "estimated": "2026-01-03T09:15:00+00:00",
+        "actual": "2026-01-03T09:23:00+00:00",
+        "estimated_runway": "2026-01-03T09:23:00+00:00",
+        "actual_runway": "2026-01-03T09:23:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T10:50:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T10:35:00+00:00",
+        "actual": "2026-01-03T10:34:00+00:00",
+        "estimated_runway": "2026-01-03T10:34:00+00:00",
+        "actual_runway": "2026-01-03T10:34:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "997",
+        "iata": "TU997",
+        "icao": "TAR997",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 313,
+        "scheduled": "2026-01-03T09:20:00+00:00",
+        "estimated": "2026-01-03T09:20:00+00:00",
+        "actual": "2026-01-03T14:40:00+00:00",
+        "estimated_runway": "2026-01-03T14:40:00+00:00",
+        "actual_runway": "2026-01-03T14:40:00+00:00"
+      },
+      "arrival": {
+        "airport": "Pierre Elliott Trudeau International",
+        "timezone": "America/Montreal",
+        "iata": "YUL",
+        "icao": "CYUL",
+        "terminal": "2E",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T12:15:00+00:00",
+        "delay": 313,
+        "estimated": "2026-01-03T17:28:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "202",
+        "iata": "TU202",
+        "icao": "TAR202",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A0AD"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "St-Exupéry",
+        "timezone": "Europe/Paris",
+        "iata": "LYS",
+        "icao": "LFLL",
+        "terminal": "1",
+        "gate": null,
+        "delay": 9,
+        "scheduled": "2026-01-03T09:25:00+00:00",
+        "estimated": "2026-01-03T09:25:00+00:00",
+        "actual": "2026-01-03T09:57:00+00:00",
+        "estimated_runway": "2026-01-03T09:57:00+00:00",
+        "actual_runway": "2026-01-03T09:57:00+00:00"
+      },
+      "arrival": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T11:30:00+00:00",
+        "delay": 9,
+        "estimated": "2026-01-03T11:40:00+00:00",
+        "actual": "2026-01-03T11:39:00+00:00",
+        "estimated_runway": "2026-01-03T11:39:00+00:00",
+        "actual_runway": "2026-01-03T11:39:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "463",
+        "iata": "TU463",
+        "icao": "TAR463",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": null,
+      "departure": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T09:25:00+00:00",
+        "estimated": "2026-01-03T09:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T11:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "931",
+        "iata": "TU931",
+        "icao": "TAR931",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 107,
+        "scheduled": "2026-01-03T08:35:00+00:00",
+        "estimated": "2026-01-03T08:35:00+00:00",
+        "actual": "2026-01-03T10:39:00+00:00",
+        "estimated_runway": "2026-01-03T10:39:00+00:00",
+        "actual_runway": "2026-01-03T10:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Guglielmo Marconi",
+        "timezone": "Europe/Rome",
+        "iata": "BLQ",
+        "icao": "LIPE",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T10:10:00+00:00",
+        "delay": 107,
+        "estimated": "2026-01-03T11:57:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "362",
+        "iata": "TU362",
+        "icao": "TAR362",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": "B31a",
+        "delay": 89,
+        "scheduled": "2026-01-03T08:40:00+00:00",
+        "estimated": "2026-01-03T08:40:00+00:00",
+        "actual": "2026-01-03T10:45:00+00:00",
+        "estimated_runway": "2026-01-03T10:45:00+00:00",
+        "actual_runway": "2026-01-03T10:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T12:35:00+00:00",
+        "delay": 89,
+        "estimated": "2026-01-03T14:04:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "147",
+        "iata": "TU147",
+        "icao": "TAR147",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "747",
+          "flight_iata": "ek747",
+          "flight_icao": "uae747"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "896623"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T07:55:00+00:00",
+        "estimated": "2026-01-03T07:55:00+00:00",
+        "actual": "2026-01-03T08:00:00+00:00",
+        "estimated_runway": "2026-01-03T08:00:00+00:00",
+        "actual_runway": "2026-01-03T08:00:00+00:00"
+      },
+      "arrival": {
+        "airport": "Leonardo Da Vinci (Fiumicino)",
+        "timezone": "Europe/Rome",
+        "iata": "FCO",
+        "icao": "LIRF",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T09:20:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T08:56:00+00:00",
+        "actual": "2026-01-03T08:55:00+00:00",
+        "estimated_runway": "2026-01-03T08:55:00+00:00",
+        "actual_runway": "2026-01-03T08:55:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "752",
+        "iata": "TU752",
+        "icao": "TAR752",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T07:55:00+00:00",
+        "estimated": "2026-01-03T07:55:00+00:00",
+        "actual": "2026-01-03T08:16:00+00:00",
+        "estimated_runway": "2026-01-03T08:16:00+00:00",
+        "actual_runway": "2026-01-03T08:16:00+00:00"
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "56",
+        "scheduled": "2026-01-03T10:30:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T10:22:00+00:00",
+        "actual": "2026-01-03T10:21:00+00:00",
+        "estimated_runway": "2026-01-03T10:21:00+00:00",
+        "actual_runway": "2026-01-03T10:21:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "744",
+        "iata": "TU744",
+        "icao": "TAR744",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A181"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 16,
+        "scheduled": "2026-01-03T07:50:00+00:00",
+        "estimated": "2026-01-03T07:50:00+00:00",
+        "actual": "2026-01-03T08:11:00+00:00",
+        "estimated_runway": "2026-01-03T08:11:00+00:00",
+        "actual_runway": "2026-01-03T08:11:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T10:25:00+00:00",
+        "delay": 16,
+        "estimated": "2026-01-03T10:40:00+00:00",
+        "actual": "2026-01-03T10:41:00+00:00",
+        "estimated_runway": "2026-01-03T10:41:00+00:00",
+        "actual_runway": "2026-01-03T10:41:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "954",
+        "iata": "TU954",
+        "icao": "TAR954",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T07:45:00+00:00",
+        "estimated": "2026-01-03T07:45:00+00:00",
+        "actual": "2026-01-03T07:48:00+00:00",
+        "estimated_runway": "2026-01-03T07:48:00+00:00",
+        "actual_runway": "2026-01-03T07:48:00+00:00"
+      },
+      "arrival": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T09:30:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T09:10:00+00:00",
+        "actual": "2026-01-03T09:13:00+00:00",
+        "estimated_runway": "2026-01-03T09:13:00+00:00",
+        "actual_runway": "2026-01-03T09:13:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "756",
+        "iata": "TU756",
+        "icao": "TAR756",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A263"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": null,
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T06:50:00+00:00",
+        "estimated": "2026-01-03T06:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Marseille Provence Airport",
+        "timezone": "Europe/Paris",
+        "iata": "MRS",
+        "icao": "LFML",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "1",
+        "scheduled": "2026-01-03T08:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "930",
+        "iata": "TU930",
+        "icao": "TAR930",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T06:45:00+00:00",
+        "estimated": "2026-01-03T06:45:00+00:00",
+        "actual": "2026-01-03T07:04:00+00:00",
+        "estimated_runway": "2026-01-03T07:04:00+00:00",
+        "actual_runway": "2026-01-03T07:04:00+00:00"
+      },
+      "arrival": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T08:15:00+00:00",
+        "delay": null,
+        "estimated": "2026-01-03T08:14:00+00:00",
+        "actual": "2026-01-03T08:15:00+00:00",
+        "estimated_runway": "2026-01-03T08:15:00+00:00",
+        "actual_runway": "2026-01-03T08:15:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "996",
+        "iata": "TU996",
+        "icao": "TAR996",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": null,
+      "departure": {
+        "airport": "Habib Bourguiba",
+        "timezone": "Africa/Tunis",
+        "iata": "MIR",
+        "icao": "DTMB",
+        "terminal": null,
+        "gate": null,
+        "delay": 26,
+        "scheduled": "2026-01-03T06:25:00+00:00",
+        "estimated": "2026-01-03T06:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "St-Exupéry",
+        "timezone": "Europe/Paris",
+        "iata": "LYS",
+        "icao": "LFLL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T08:25:00+00:00",
+        "delay": 25,
+        "estimated": "2026-01-03T08:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "462",
+        "iata": "TU462",
+        "icao": "TAR462",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A192"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Felix Houphouet Boigny",
+        "timezone": "Africa/Abidjan",
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "terminal": "2",
+        "gate": null,
+        "delay": 105,
+        "scheduled": "2026-01-03T01:20:00+00:00",
+        "estimated": "2026-01-03T01:20:00+00:00",
+        "actual": "2026-01-03T03:36:00+00:00",
+        "estimated_runway": "2026-01-03T03:36:00+00:00",
+        "actual_runway": "2026-01-03T03:36:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T07:30:00+00:00",
+        "delay": 104,
+        "estimated": "2026-01-03T09:14:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "400",
+        "iata": "TU400",
+        "icao": "TAR400",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A199"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": "2",
+        "gate": null,
+        "delay": 87,
+        "scheduled": "2026-01-03T02:00:00+00:00",
+        "estimated": "2026-01-03T02:00:00+00:00",
+        "actual": "2026-01-03T03:45:00+00:00",
+        "estimated_runway": "2026-01-03T03:45:00+00:00",
+        "actual_runway": "2026-01-03T03:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T04:25:00+00:00",
+        "delay": 87,
+        "estimated": "2026-01-03T05:52:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "706",
+        "iata": "TU706",
+        "icao": "TAR706",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A260"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": null,
+        "gate": "S04-",
+        "delay": 23,
+        "scheduled": "2026-01-03T03:30:00+00:00",
+        "estimated": "2026-01-03T03:30:00+00:00",
+        "actual": "2026-01-03T04:07:00+00:00",
+        "estimated_runway": "2026-01-03T04:07:00+00:00",
+        "actual_runway": "2026-01-03T04:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T04:15:00+00:00",
+        "delay": 23,
+        "estimated": "2026-01-03T04:41:00+00:00",
+        "actual": "2026-01-03T04:38:00+00:00",
+        "estimated_runway": "2026-01-03T04:38:00+00:00",
+        "actual_runway": "2026-01-03T04:38:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "215",
+        "iata": "TU215",
+        "icao": "TAR215",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A261"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": null,
+      "departure": {
+        "airport": "Mérignac",
+        "timezone": "Europe/Paris",
+        "iata": "BOD",
+        "icao": "LFBD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-01-03T00:50:00+00:00",
+        "estimated": "2026-01-03T00:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T02:39:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "629",
+        "iata": "TU629",
+        "icao": "TAR629",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A262"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-01-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "N",
+        "gate": null,
+        "delay": 102,
+        "scheduled": "2026-01-03T02:40:00+00:00",
+        "estimated": "2026-01-03T02:40:00+00:00",
+        "actual": "2026-01-03T04:52:00+00:00",
+        "estimated_runway": "2026-01-03T04:52:00+00:00",
+        "actual_runway": "2026-01-03T04:52:00+00:00"
+      },
+      "arrival": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-01-03T05:55:00+00:00",
+        "delay": 101,
+        "estimated": "2026-01-03T07:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "714",
+        "iata": "TU714",
+        "icao": "TAR714",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "02A196"
+      },
+      "live": null
+    }
+  ]
+}
