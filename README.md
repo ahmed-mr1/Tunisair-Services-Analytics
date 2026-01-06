@@ -22,11 +22,11 @@ API Source (Aviationstack) → ETL Pipeline → Data Warehouse → Power BI Dash
 
 ### Key Components
 
-1. **ETL Pipeline** (`/ETL`): Extract, transform, and load flight data
-2. **Data Warehouse** (`/ETL/SQL`): Star schema with fact and dimension tables
-3. **Cleaned Data** (`/data_cleaned`): Processed datasets in multiple formats (JSON, CSV, SQLite)
-4. **Data Model** (`/model`): Dimensional model diagram for the data warehouse
-5. **Power BI Dashboard** (`/dashboard`): Interactive visualization and reporting
+1. **ETL Pipeline** (`ETL/`): Extract, transform, and load flight data
+2. **Data Warehouse** (`ETL/SQL/`): Star schema with fact and dimension tables
+3. **Cleaned Data** (`data_cleaned/`): Processed datasets in multiple formats (JSON, CSV, SQLite)
+4. **Data Model** (`model/`): Dimensional model diagram for the data warehouse
+5. **Power BI Dashboard** (`dashboard/`): Interactive visualization and reporting
 
 ## 🚀 Features
 
@@ -178,11 +178,11 @@ mysql -u root -p warehouse_project < ETL/SQL/Insert.sql
 
 2. **Combination**
    - Merge all raw JSON files
-   - Output: `raw_tunisair_flights_combined.json` (63+ MB)
+   - Output: `raw_tunisair_flights_combined.json` (file size varies based on data volume)
 
 3. **Deduplication**
    - Remove exact duplicate records based on entire JSON content
-   - Output: `raw_tunisair_flights_combined_dedup.json` (~1.4 MB)
+   - Output: `raw_tunisair_flights_combined_dedup.json` (size depends on duplicate ratio)
 
 4. **Transformation**
    - Flatten nested JSON with `pandas.json_normalize`
