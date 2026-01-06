@@ -12,12 +12,6 @@ A lightweight ETL pipeline to extract, combine, deduplicate, transform, and expo
 
 ## Repository Structure
 - `Tunair_etl.ipynb`: Main ETL notebook (extract → combine → dedupe → transform → load)
-- `step1_test_api.py`: Minimal script to verify API connectivity
-- `step2_extract_tunisair.py`: Simple extractor script (optional alternative to the notebook)
-- `raw_tunisair_flights*.json`: Raw API payload files
-- `raw_tunisair_flights_combined.json`: Concatenated raw `data` entries from all raw files
-- `raw_tunisair_flights_combined_dedup.json`: Combined data with exact duplicates removed
-- `clean_tunisair_flights.csv`: Final cleaned dataset
 
 ## Requirements
 - Python 3.9+
