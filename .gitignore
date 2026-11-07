@@ -1,0 +1,55 @@
+# =============================================================================
+# Power BI & Microsoft Office Temporary / Cache Files
+# =============================================================================
+~$*
+*.pbix.tmp
+*.pbit.tmp
+*.abf
+*.ldf
+*.mdf
+*.bim.settings
+*.pbix.bak
+SecurityBindings
+
+# =============================================================================
+# Python / Jupyter / Virtual Environments
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+.python-version
+.pytest_cache/
+
+# =============================================================================
+# Environment Variables & Secrets (API Keys, DB Credentials)
+# =============================================================================
+.env
+.env.*
+!.env.example
+secrets.json
+config.local.*
+
+# =============================================================================
+# Oversized Raw Data (>50MB)
+# Keep raw API batch samples (raw_tunisair_flights*.json) & deduplicated data,
+# but ignore the un-deduplicated 63MB combined payload.
+# =============================================================================
+data/raw/raw_tunisair_flights_combined.json
+*.parquet.tmp
+*.csv.tmp
+
+# =============================================================================
+# OS & Editor Metadata
+# =============================================================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
